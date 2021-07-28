@@ -1,20 +1,16 @@
 <footer class="footer">
-    <div class="container">
-        
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-        {% endif %}
 
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
-        </div>
-    </div>
+	<div class="wrap">
+
+		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
+
+		<div class="footer__copyright">
+			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+		</div>
+
+		{% include socials.html %}
+
+	</div>
+
 </footer>
