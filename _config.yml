@@ -9,10 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
-  posts2:
-    output: true
-    permalink: /blog2/:slug
+    permalink: /research/:slug
   projects:
     output: true
     # permalink: /project/:slug
@@ -58,4 +55,4 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-paginate_path: "/blog2/page:num/"
+# paginate_path: "/blog2/page:num/"

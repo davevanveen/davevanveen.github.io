@@ -47,10 +47,10 @@ featured_image: /images/demo/dvv_site_hero.jpg
 			<div class="post__content-wrap">
 				<div class="post__content">
 
-					{% if project.title == 'Growth' %}
+					{% if project.title == 'Growth' or project.title == 'Adventure'%}
 					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
 					{% else %}
-					<h2 class="post__title"><a href="/blog/">Research</a></h2>
+					<h2 class="post__title"><a href="/research/">Research</a></h2>
 					{% endif %}
 
 					<p class="post__subtitle">{{ project.subtitle }}</p>

@@ -1,7 +1,6 @@
 ---
 title: Contact
 subtitle: Feel free to drop a note and get in touch! <br /> Bonus points if you mention a book you're currently excited about.
-[//]: # subtitle: Personal comes with a built-in contact form that's free and easy to set up.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/contact.jpg
 ---
