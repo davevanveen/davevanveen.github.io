@@ -11,7 +11,7 @@ My goal is to equip myself with the skills to steer technology's societal impact
 
 To that end I am pursuing a PhD in Stanford University's Electrical Engineering (EE) Dept. 
 My research is focused on developing machine learning algorithms for computational imaging problems such as compressed sensing and MRI reconstruction. 
-Ultimately I view the PhD as training to cultivate my capacity to conceive, evaluate, and develop new ideas so I can become a leader in technological innovation. <!-- at the boundary of intellectual rigor and creativity.-->
+Ultimately I view the PhD as training to cultivate my capacity to conceive, evaluate, and develop new ideas so I can lead technological innovation.
 
 ## Bio
 Dave spent two years at a Bay Area <a href="https://subtlemedical.com/">start-up</a> developing new imaging algorithms for commercial deployment. 
