@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Blog
+title: Research
 description: Personal includes a simple blog with pagination.
-featured_image: /images/demo/blog.jpg
+featured_image: /images/demo/gray.jpg
+permalink: /research/
 ---
 
 <section class="hero hero--single">
@@ -13,8 +14,8 @@ featured_image: /images/demo/blog.jpg
 
 	<div class="wrap">
 
-		<h1>What I've been up to</h1>
-		<p>Personal includes a simple blog with pagination.</p>
+		<h1>Research</h1>
+		<p>My current research focuses on...</p>
 
 	</div>
 
@@ -34,7 +35,20 @@ featured_image: /images/demo/blog.jpg
 
 			<div class="post__content-wrap">
 				<div class="post__content">
+
+				{% if post.title == 'Badgerloop' %}
+					<h2 class="post__title"><a href="https://www.badgerloop.org">{{ post.title }}</a></h2>
+				
+				{% else if post.title == 'Compressed sensing recovery with unsupervised nets' %}
+					<h2 class="post__title"><a href="https://arxiv.org/pdf/1806.06438.pdf">{{ post.title }}</a></h2>
+				
+				{% else if post.title == 'Accelerating echocardiogram analysis' %}
+                                        <h2 class="post__title"><a href="https://github.com/dssg/usal_echo_public">{{ post.title }}</a></h2>
+				
+				{% else %}
 					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				{% endif %}
+
 					<p class="post__subtitle">{{ post.subtitle }}</p>
 					<p class="post__description">{{ post.description }}</p>
 				</div>

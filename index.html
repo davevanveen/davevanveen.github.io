@@ -3,7 +3,7 @@ layout: default
 title: A sleek, modern Jekyll theme for personal websites.
 description: A sleek, modern Jekyll theme for personal websites. Personal is the perfect theme for developers, designers and other creatives.
 [//]: # featured_image: /images/demo/home.jpg
-featured_image: /images/demo/prof_beard_bw.jpg
+featured_image: /images/demo/dvv_site_hero.jpg
 ---
 
 <section class="hero">
@@ -14,10 +14,17 @@ featured_image: /images/demo/prof_beard_bw.jpg
 
 	<div class="wrap">
 
-		<h1>A sleek, modern Jekyll theme
-		for personal websites</h1>
-		<p>Personal is the perfect theme for developers, designers and other creatives.</p>
+		<h2 style="color:white;font-size:3vw">
+		On a mission to make myself useful</h2>
 
+		<p style="inline-size:60%;margin-bottom: 25px">
+		My name's Dave, and I'm passionate about exploring new ways in which data can be used to solve meaningful problems. <br /></p>
+		
+		<p style="inline-size:60%;margin-bottom: 25px">	
+		Currently I'm equipping myself with a PhD in Electrical Engineering at Stanford University. My research focuses on developing machine learning techniques for computational imaging. <br /> </p>
+		
+		<p style="inline-size:60%;margin-bottom: 25px">	
+		Additionally I'm enthused by exploring the outdoors and formulating new methods for personal growth. </p>
 		{% include socials.html %}
 
 	</div>
@@ -38,7 +45,13 @@ featured_image: /images/demo/prof_beard_bw.jpg
 
 			<div class="post__content-wrap">
 				<div class="post__content">
+
+					{% if project.title == 'Growth' or project.title == 'Adventure'%}
 					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					{% else %}
+					<h2 class="post__title"><a href="/research/">Research</a></h2>
+					{% endif %}
+
 					<p class="post__subtitle">{{ project.subtitle }}</p>
 					<p class="post__description">{{ project.description }}</p>
 				</div>
