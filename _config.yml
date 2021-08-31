@@ -7,13 +7,13 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /research/:slug
-  projects:
-    output: true
-    # permalink: /project/:slug
-    permalink: /:slug
+  #posts:
+  #  output: true
+  #  permalink: /research/:slug
+  #projects:
+  #  output: true
+  #  # permalink: /project/:slug
+  #  permalink: /:slug
 
 defaults:
   -
