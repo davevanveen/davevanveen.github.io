@@ -2,7 +2,8 @@
 title: Contact
 subtitle: Feel free to drop a note!
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/gray.jpg
+featured_image: /images/tetons_sunset.jpg
+[//]: # featured_image: /images/demo/gray.jpg
 ---
 
 [//]: # #### Feel free to drop a note!
