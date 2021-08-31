@@ -1,9 +1,14 @@
 ---
 title: Contact
-subtitle: Feel free to drop a note and get in touch! <br /> Bonus points if you mention a book you're currently excited about.
+subtitle: Feel free to drop a note!
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/contact.jpg
+featured_image: /images/demo/dvv_site_hero.jpg
 ---
+
+#### Feel free to drop a note!
+[//]: # <b>Feel free to drop a note!</b>
+Bonus points if you mention a book you're currently excited about.
+<br><br>
 
 {% include contact-form.html %}
 

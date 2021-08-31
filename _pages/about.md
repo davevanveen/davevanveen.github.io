@@ -6,7 +6,7 @@ featured_image: /images/demo/dvv_site_hero.jpg
 ---
 
 ## Professional Purpose
-I'm passionate about exploring new ways that data can be used to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
+I'm passionate about exploring new ways that data can be used to solve meaningful problems in areas such as medicine, education, and socioeconomic disparity. 
 My goal is to equip myself with the skills to steer technology's societal impact in a more positive direction.
 
 To that end I am pursuing a PhD in Stanford University's Electrical Engineering (EE) Dept. 
@@ -20,11 +20,10 @@ and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>
 , during which time he also served as a <a href="https://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. 
 Prior to that Dave earned a B.S. in EE from the University of Wisconsin, where his main project was leading a 150-person organization to build a hyperloop pod for SpaceX.
 
-<hr>
-
-<a id="contact">
-## Contact
-<b>Feel free to drop a note!</b> Bonus points if you mention a book you're currently excited about.
-{% include contact-form.html %}
+[//]: # <hr>
+[//]: # <a id="contact">
+[//]: # ## Contact
+[//]: # <b>Feel free to drop a note!</b> Bonus points if you mention a book you're currently excited about.
+[//]: # {% include %} contact-form.html
 
 [//]: # <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Button</a>
