@@ -1,6 +1,7 @@
 site: Dave Van Veen
+author: Dave Van Veen
 
-url: https://davevanveen.com
+url: https://davevanveen.com # https://davevanveen.github.io
 baseurl: 
 
 collections:
@@ -58,3 +59,15 @@ plugins:
 paginate: 6
 paginate_path: "/blog/page:num/"
 # paginate_path: "/blog2/page:num/"
+
+# seo tags
+social:
+  name: Dave Van Veen
+  links:
+  - https://www.linkedin.com/in/dave-van-veen-548273b3/
+  - https://www.strava.com/athletes/54896097
+  - https://www.instagram.com/dave.vv/
+  - https://github.com/davevanveen
+  - https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl=en
+
+google_site_verification
