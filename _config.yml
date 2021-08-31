@@ -64,8 +64,8 @@ paginate_path: "/blog/page:num/"
 social:
   name: Dave Van Veen
   links:
-  - https://www.linkedin.com/in/dave-van-veen-548273b3/
-  - https://www.strava.com/athletes/54896097
+  - https://www.linkedin.com/in/davevanveen/
+  - https://www.strava.com/athletes/davevanveen
   - https://www.instagram.com/dave.vv/
   - https://github.com/davevanveen
   - https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl=en

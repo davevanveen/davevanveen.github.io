@@ -35,8 +35,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  linkedin_url: 'https://www.linkedin.com/in/dave-van-veen-548273b3/'
-  strava_url: 'https://www.strava.com/athletes/54896097'
+  linkedin_url: 'https://www.linkedin.com/in/davevanveen/'
+  strava_url: 'https://www.strava.com/athletes/davevanveen'
   instagram_url: 'https://www.instagram.com/dave.vv/'
   github_url: 'https://github.com/davevanveen'
   facebook_url: ''
