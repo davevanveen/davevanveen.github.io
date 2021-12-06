@@ -167,7 +167,6 @@ DEPENDENCIES
   jekyll-target-blank
   jekyll-twitter-plugin
   jemoji
-  nokogiri (>= 1.6.7.rc)
   unicode_utils
   webrick
 

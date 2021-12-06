@@ -1,0 +1,519 @@
+I"<div class="publications">
+
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+  </div>
+
+  <div id="vanveen2021realtime" class="col-sm-8">
+    
+      <div class="title">Real-Time Video Denoising to Reduce Ionizing Radiation Exposure in Fluoroscopic Imaging</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                <em>VanVeen, D.</em>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Duffy, B.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Wang, L.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Datta, K.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Zhang, T.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Zaharchuk, G.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Gong, E.
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Medical Image Computing and Computer Assisted Intervention (MICCAI) - Machine Learning for Medical Imaging Reconstruction (MLMIR) Workshop</em>
+      
+      
+      
+        2021
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+      
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-88552-6_11" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+  </div>
+
+  <div id="vanusing" class="col-sm-8">
+    
+      <div class="title">Using Untrained Convolutional Neural Networks to Accelerate MRI in 2D and 3D</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                <em>VanVeen, D.</em>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Desai, A.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Heckel, R.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Chaudhari, A. S.
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In The International Society for Magnetic Resonance in Medicine (ISMRM)</em>
+      
+      
+      
+        2021
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+      
+      <a href="https://index.mirasmart.com/ISMRM2021/PDFfiles/1964.html" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+    
+    
+    
+    
+      <a href="https://github.com/davevanveen/unsup_mri" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+  </div>
+
+  <div id="vanveen2020compressed" class="col-sm-8">
+    
+      <div class="title">Compressed Sensing with Deep Image Prior and Learned Regularization</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                <em>VanVeen, D.</em>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Jalal, A.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Soltanolkotabi, M.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Price, E.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Vishwanath, S.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Dimakis, A. G.
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv</em>
+      
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+      
+      <a href="https://arxiv.org/pdf/1806.06438.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+    
+    
+    
+    
+      <a href="https://github.com/davevanveen/compsensing_dip" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+  </div>
+
+  <div id="DBLP:journals/corr/abs-2006-06292" class="col-sm-8">
+    
+      <div class="title">Design Considerations for High Impact, Automated Echocardiogram Analysis</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Toussaint, W.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                <em>VanVeen, D.</em>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Irwin, C.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Y. Nachmany, et al.
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In International Conference of Machine Learning (ICML) - Global Health Workshop</em>
+      
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+      
+      <a href="https://arxiv.org/pdf/2006.06292.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+    
+    
+    
+    
+      <a href="https://github.com/dssg/usal_echo_public" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+
+</div>
+:ET
