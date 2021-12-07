@@ -1,5 +1,7 @@
 .git
 .sass-cache/
+.tweet-cache/
+.jekyll-cache/
 _.sass_cache
 _site
 _site/
