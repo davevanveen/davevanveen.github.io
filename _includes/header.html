@@ -42,7 +42,8 @@
             </a>
           </li>
           {% endif %}
-          <!-- Other pages -->
+          
+	  <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
@@ -76,6 +77,7 @@
           {% endif %}
           {% endif %}
           {% endfor %}
+	  
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: papers
-[//]: # description: publications in reversed chronological order.
+permalink: /papers/
+title: publications
+description: pre-prints also included
 years: [2021, 2020]
 nav: true
 ---
