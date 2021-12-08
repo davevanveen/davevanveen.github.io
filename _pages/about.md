@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm passionate about exploring new ways that data can be used to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
-My goal is to equip myself with the skills to steer machine learning's societal impact in a more positive direction.
+My goal is to equip myself with the skills to steer emerging technology's societal impact in a more positive direction.
 
 To that end, I am pursuing a PhD in Stanford University's Electrical Engineering (EE) Dept. 
 My research is focused on developing machine learning algorithms for computational imaging problems such as compressed sensing and MRI reconstruction. 
