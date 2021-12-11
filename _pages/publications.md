@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: publications
-description: pre-prints also included
+description: 
 years: [2021, 2020]
 nav: true
 ---
