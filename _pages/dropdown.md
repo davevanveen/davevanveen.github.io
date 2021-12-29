@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: docs 
+nav: true
 dropdown: true 
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: cv
+      permalink: /assets/pdf/cv_dave_vv.pdf/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: resume
+      permalink: /assets/pdf/resume_dave_vv.pdf/
 ---
