@@ -21,7 +21,7 @@ My research is focused on developing machine learning algorithms for computation
 
 ## bio
 Prior to beginning at Stanford, Dave spent two years at a Bay Area <a href="https://subtlemedical.com/">start-up</a> developing new imaging algorithms for commercial deployment. 
-Previously he earned an M.S. in EE from the University of Texas performing machine learning research under the supervision of <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
+Previously he earned a M.S. in EE from the University of Texas performing machine learning research under the supervision of <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
 and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which time he also served as a <a href="https://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. 
 Prior to that Dave earned a B.S. in EE from the University of Wisconsin, where his main project was leading a 150-person organization to build a hyperloop pod for SpaceX.
 
