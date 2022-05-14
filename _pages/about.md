@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student <br> <a href="https://www.stanford.edu/">Stanford University</a>
+description: PhD Student <br> <a href="https://profiles.stanford.edu/david-van-veen/">Stanford University</a>
 
 profile:
   align: right
@@ -18,6 +18,9 @@ My goal is to equip myself with the skills to steer emerging technology's societ
 
 To that end, I am pursuing a PhD in Stanford University's Electrical Engineering (EE) Dept. 
 My research is focused on developing machine learning algorithms for computational imaging problems such as compressed sensing and MRI reconstruction. 
+[//]: # include update here
+
+[//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 
 ## bio
 Prior to beginning at Stanford, Dave spent two years at a Bay Area <a href="https://subtlemedical.com/">start-up</a> developing new imaging algorithms for commercial deployment. 
