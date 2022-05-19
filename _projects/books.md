@@ -15,7 +15,7 @@ category: growth
 
 <br>
 # Overview
-Toward the onset of covid, I had the delight of reading a new book every week. Here are the ones which stood out and a brief reason why. Organized by genre:
+Toward covid's onset, I had the delight of reading a new book every week. Here are the ones which stood out and a brief reason why. Organized by genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
