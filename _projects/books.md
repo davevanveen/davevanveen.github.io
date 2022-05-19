@@ -15,7 +15,7 @@ category: growth
 
 <br>
 # Overview
-Toward the onset of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Organized by genre:
+During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Organized by genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -27,7 +27,7 @@ Toward the onset of covid, I had the delight of reading a new book every week. H
 * <a href="#so">Social Psychology</a>
 * <a href="#sp">Spirituality</a>
 
-Feel free to reach out and share which books have inspired you! I warmly welcome suggestions.
+Feel free to reach out with books you found inspiring! I always welcome suggestions.
 
 ---------------------------------------------
 <style>
