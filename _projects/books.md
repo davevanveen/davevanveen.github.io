@@ -1,7 +1,7 @@
 ---
 layout: page
 title: covid reading list 
-description: most inspiring books i read during covid 
+description: books which most inspired me during covid 
 img: assets/img/2205_books/book_collage.png
 importance: 1
 category: growth
@@ -15,6 +15,7 @@ category: growth
 
 <br>
 # Overview
+For the first year and a half after covid broke out, I made space to read a few books each month. Here are the ones which stood out, each with a brief reason why. Organized by genre:
 This is simply my a few of my favorite books that I read during covid, each with a short reason why it inspired me. Organized by genre:
 This is simply a list of my books which have most inspired me and a short reason why. Organized by genre:
 * <a href="#ct">Coffee Table</a>
