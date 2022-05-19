@@ -15,9 +15,7 @@ category: growth
 
 <br>
 # Overview
-For the first year and a half after covid broke out, I made space to read a few books each month. Here are the ones which stood out, each with a brief reason why. Organized by genre:
-This is simply my a few of my favorite books that I read during covid, each with a short reason why it inspired me. Organized by genre:
-This is simply a list of my books which have most inspired me and a short reason why. Organized by genre:
+For the first year or so of covid, I had the delight of reading multiple books each month. Here are the ones which most stood out, with a brief reason why. Organized by genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -29,7 +27,7 @@ This is simply a list of my books which have most inspired me and a short reason
 * <a href="#so">Social Psychology</a>
 * <a href="#sp">Spirituality</a>
 
-I'd love to hear which reads have inspired you! / warmly welcome any suggestions you may have! Feel free to reach out.
+I'd love to hear which books have inspired you! Feel free to reach out.
 
 ---------------------------------------------
 <style>
@@ -52,7 +50,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/one_year_on_a_bike.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/33116851-one-year-on-a-bike">One Year on a Bike</a> <br> by Martijn Doolard </th>
-		<th>A journey from Amsterdam to Singapore with captivating photographs and journal entries. Amidst the usual day-to-day grind, books like this remind me of the profound possibility and the sense of serendipity in cross continental cycling trips.</th>
+		<th>A journey from Amsterdam to Singapore with captivating photographs and journal entries. Amidst the usual day-to-day grind, books like this remind me of the profound possibility and sense of serendipity in cross continental cycling trips.</th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/nature_photography.jpg" width="100" height="100"> </th>
@@ -119,7 +117,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/team_of_rivals.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/2199.Team_of_Rivals?ac=1&from_search=true&qid=Tja7cMaFdU&rank=1">Team of Rivals</a> <br> by Doris Kearns Goodwin </th>
-		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through a terribly turbulent time. I found his extraordinary emotional intelligence and leadership skills profoundly inspiring. </th>
+		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through the Civil War. I found his extraordinary emotional intelligence and leadership skills profoundly inspiring. </th>
 	</tr>
 </table>
 
@@ -190,7 +188,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/think_again.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/55539565-think-again?ac=1&from_search=true&qid=NkKAI267FG&rank=2">Think Again</a> <br> by Adam Grant </th>
-		<th> The critical art of re-thinking one's engrained ideas and how that enhances progress both internally and with others. For me it emphasized how encumbered I'll be from shaping the world unless I remain curious about it. </th>
+		<th> The critical art of re-thinking one's engrained ideas and how that enhances progress both internally and with others. For me it emphasized how limited I'll be in shaping the world without remaining curious about it. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/sapiens.jpg" width="100" height="100"> </th>
@@ -208,7 +206,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/power_of_now.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true&qid=NA7OIbrJSV&rank=1">The Power of Now</a> <br> by Eckhart Tolle </th>
-		<th> Thorough, tangible depiction of being present and how that enables a fulfilling life. This is often the first book I recommend for those interested in mindfulness, as I found it very helpful how Tolle re-iterates the same points from different angles. </th>
+		<th> Thorough, tangible depiction of being present and how that enables a fulfilling life. This is often the first book I recommend for those interested in mindfulness, as I found it very helpful that Tolle re-iterates the same points from different angles. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </th>
