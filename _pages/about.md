@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student <br> <a href="https://profiles.stanford.edu/david-van-veen/">Stanford University</a>
+description: PhD Student <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a>
 
 profile:
-  align: right
+  align: right 
   image: prof_pic_rect.jpg
 
 news: true  # includes a list of news items
@@ -17,8 +17,9 @@ I'm passionate about exploring new ways that data can be used to solve important
 My goal is to equip myself with the skills to steer emerging technology's societal impact in a more positive direction.
 
 To that end, I am pursuing a PhD in Stanford University's Electrical Engineering (EE) Dept. 
-My research is focused on developing machine learning algorithms for computational imaging problems such as compressed sensing and MRI reconstruction. 
-[//]: # include update here
+My research is focused on developing machine learning algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI, cryo-EM, and fluoroscopy. I'm grateful to be advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
+
+[//]: # such as compressed sensing and MRI reconstruction. 
 
 [//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 

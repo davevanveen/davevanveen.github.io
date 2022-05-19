@@ -2,9 +2,9 @@
 layout: page
 title: blog
 permalink: /blog/
-description: miscellaneous musings 
+description:
 nav: true` 
-display_categories: [growth, adventure]
+display_categories: [growth, adventure -- coming soon!]
 horizontal: false
 ---
 <div class="projects">
