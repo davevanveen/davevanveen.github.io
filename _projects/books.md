@@ -15,7 +15,7 @@ category: growth
 
 <br>
 # Overview
-For the first year or so of covid, I had the delight of reading multiple books each month. Here are the ones which most stood out, with a brief reason why. Organized by genre:
+Toward the onset of covid, I had the delight of reading a new book every week. Here are the ones which stood out and a brief reason why. Organized by genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -27,7 +27,7 @@ For the first year or so of covid, I had the delight of reading multiple books e
 * <a href="#so">Social Psychology</a>
 * <a href="#sp">Spirituality</a>
 
-I'd love to hear which books have inspired you! Feel free to reach out.
+Feel free to reach out and share which books have inspired you! I warmly welcome suggestions.
 
 ---------------------------------------------
 <style>
@@ -99,7 +99,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/supple_leopard.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard?ac=1&from_search=true&qid=V4XGZFkDDZ&rank=1">Becoming a Supple Leopard</a> <br> by Kelly Starrett </th>
-		<th> Mobility frameworks and exercises for an active lifestyle. The lessons I learned here were crucial for mitigating injury in ultra-distance cycling, while the fundamental intuition of biomechanics were immensely valuable. </th>
+		<th> Mobility frameworks and exercises for an active lifestyle. The lessons I learned here were crucial for mitigating injury in ultra-distance cycling, while the fundamental intuition of biomechanics seem immensely valuable. </th>
 	</tr>
 </table>
 
@@ -133,8 +133,8 @@ table th:nth-of-type(3) {
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/when_breath.jpg" width="100" height="100"> </th>
-		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath Becomes Air</a> <br> by Paul Kalanithi </th>
-		<th> Reflection on what makes life worth living from the unique perspective of a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis at the age of 36. I admired Kalanithi's eloquent grasp of deeper meaning without getting caught up in an incredibly competitive career landscape. </th>
+		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath <br> Becomes Air</a> <br> by Paul Kalanithi </th>
+		<th> Reflection on what makes life worth living from the unique perspective of a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis at the age of 36. I admired Kalanithi's firm connection to deeper meaning despite navigating an incredibly competitive career landscape. </th>
 	</tr>
 </table>
 
@@ -152,7 +152,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/rumi.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/304079.The_Essential_Rumi?ac=1&from_search=true&qid=1ZJiZV9iyY&rank=1">The Essential Rumi</a> <br> by Rumi </th>
-		<th> Lyrical translations of the 13th-century Sufi Mystic. Rumi's abstract metaphors originate from an entirely different time and culture. Sometimes I sift through to find profound insight; sometimes I humbly miss the point&mdash;or come to accept that perhaps there isn't one. </th>
+		<th> Lyrical translations of the 13th-century Sufi Mystic. Rumi's abstract metaphors originate from an entirely different time and culture. Sometimes I sift through to find profound insight; other times I humbly miss the point&mdash;or come to accept that perhaps there isn't one. </th>
 	</tr>
 </table>
 
@@ -164,7 +164,7 @@ table th:nth-of-type(3) {
 <table>
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/how_to_win_friends.jpg" width="100" height="100"> </th>
-		<th> <a href="https://www.goodreads.com/book/show/12176421-how-to-win-friends-and-influence-people-in-the-digital-age?ac=1&from_search=true&qid=bhaaBDtxeY&rank=1">How to Win Friends and Influence People</a> <br> by Dale Carnegie </th>
+		<th> <a href="https://www.goodreads.com/book/show/12176421-how-to-win-friends-and-influence-people-in-the-digital-age?ac=1&from_search=true&qid=bhaaBDtxeY&rank=1">How to Win Friends <br> and Influence People</a> <br> by Dale Carnegie </th>
 		<th> Fundamental, concise, and timeless advice for communication. This has helped me better co-exist and collaborate with people both professionally and personally. </th>
 	</tr>
 	<tr>
@@ -193,7 +193,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/sapiens.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=hdkCdO7UAr&rank=1">Sapiens</a> <br> by Yuval Noah Harari </th>
-		<th> Wide-ranging account covering the entire timeline of our species and the formation of human societies. The perspetive in this book felt encouraging, as I'm generally very concerned about our current civilization's transition into the digital age. </th>
+		<th> Wide-ranging account covering the entire timeline of our species and the formation of human societies. The perspetive in this book felt encouraging, as I'm generally concerned about our current civilization's trajectory entering the digital age. </th>
 	</tr>
 </table>
 
