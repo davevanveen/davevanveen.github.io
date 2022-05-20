@@ -1,7 +1,7 @@
 ---
 layout: page
 title: covid reading list 
-description: books which inspired me during the pandemic 
+description: organized by genre for quick browsing 
 img: assets/img/2205_books/book_collage.png
 importance: 1
 category: growth
@@ -15,7 +15,7 @@ category: growth
 
 <br>
 # Overview
-During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Organized by genre:
+During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Feel free to skim the whole list or just pick your favorite genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -27,7 +27,7 @@ During the first year of covid, I had the delight of reading a new book every we
 * <a href="#so">Social Psychology</a>
 * <a href="#sp">Spirituality</a>
 
-Feel free to reach out with books you found inspiring! I always welcome suggestions.
+I'd love to hear which books have inspired you recently! Don't hesitate to reach out.
 
 ---------------------------------------------
 <style>
@@ -134,7 +134,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/when_breath.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath <br> Becomes Air</a> <br> by Paul Kalanithi </th>
-		<th> Reflection on what makes life worth living from the unique perspective of a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis at the age of 36. I admired Kalanithi's firm connection to deeper meaning despite navigating an incredibly competitive career landscape. </th>
+		<th> Reflections on what makes life worth living from the unique perspective of a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi's firm connection to deeper meaning despite navigating an incredibly competitive career landscape. </th>
 	</tr>
 </table>
 
