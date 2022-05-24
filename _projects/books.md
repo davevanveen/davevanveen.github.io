@@ -1,7 +1,7 @@
 ---
 layout: page
-title: covid reading list 
-description: organized by genre for quick browsing 
+title: All-time favorite books 
+description: ongoing list organized by genre for quick browsing 
 img: assets/img/2205_books/book_collage.png
 importance: 1
 category: growth
@@ -15,7 +15,8 @@ category: growth
 
 <br>
 # Overview
-During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Feel free to skim the whole list or just pick your favorite genre:
+[//]: # During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Feel free to skim the whole list or just pick your favorite genre:
+An ongoing collection of books which have most inspired me and a brief reason why. Feel free to skim the whole page or just pick your favorite genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -26,8 +27,9 @@ During the first year of covid, I had the delight of reading a new book every we
 * <a href="#se">Self-help</a>
 * <a href="#so">Social Psychology</a>
 * <a href="#sp">Spirituality</a>
+* <a href="#tr">Travel</a>
 
-I'd love to hear which books have inspired you recently! Don't hesitate to reach out.
+I hope this list evolves and expands often! Help the cause by making a suggestion; I'd love to hear from you.
 
 ---------------------------------------------
 <style>
@@ -212,5 +214,17 @@ table th:nth-of-type(3) {
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/41580312-be-here-now?ac=1&from_search=true&qid=7gSwqUlhtQ&rank=1">Be Here Now</a> <br> by Ram Dass </th>
 		<th> Illustrative depictions of conscious experience to help shepherd a sense of the sacred into everyday existence. I really like how saliently Ram Dass reconciles the underlying spiritual connection between different religions. </th>
+	</tr>
+</table>
+
+<a id="tr"></a> 
+&nbsp;
+## Travel 
+
+<table>
+	<tr>
+		<th> <img style="float: left;" src="/assets/img/2205_books/caliph_house_2.jpg" width="100" height="100"> </th> 
+		<th> <a href="https://www.goodreads.com/book/show/131011.The_Caliph_s_House">The Caliph's House</a> <br> by Tahir Shah </th>
+		<th> Anglo-Afghan writer Shah moves his family from London to Casablanca... </th> 
 	</tr>
 </table>

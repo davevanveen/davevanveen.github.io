@@ -66,6 +66,7 @@
               </div>
           </li>
           {% else %}
+	  {% if p.title != blog %} <!-- TODO: delete this line when i have more blogs -->
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
               <a class="nav-link" href="{{ p.url | relative_url }}">
                 {{ p.title }}
@@ -74,10 +75,27 @@
                 {% endif %}
               </a>
           </li>
+	  {% endif %} <!-- TODO: delete this line when i have more blogs -->
           {% endif %}
           {% endif %}
           {% endfor %}
-	  
+          
+	  <!-- TODO: delete this block when i have more blogs -->
+          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% for p in sorted_pages %}
+	  {% if p.title == blog %}
+	  <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+              <a class="nav-link" href="{{ p.url | relative_url }}">
+                {{ p.title }}
+                {% if page.title == p.title %}
+                <span class="sr-only">(current)</span>
+                {% endif %}
+              </a>
+          </li>
+	  {% endif %}
+	  {% endfor %}
+	  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
