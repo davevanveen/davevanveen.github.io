@@ -2,14 +2,14 @@
 layout: page
 title: All-time favorite books 
 description: ongoing list organized by genre for quick browsing 
-img: assets/img/2205_books/book_collage.png
+img: assets/img/2205_books/book_collage_v2.png
 importance: 1
 category: growth
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/2205_books/book_collage.png title: "book collage" class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/2205_books/book_collage_v2.png title: "book collage" class: "img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -225,6 +225,6 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/caliph_house_2.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/131011.The_Caliph_s_House">The Caliph's House</a> <br> by Tahir Shah </th>
-		<th> Anglo-Afghan writer Shah moves his family from London to Casablanca... </th> 
+		<th> Anglo-Afghan writer Shah moves his family from London to Casablanca and travels throughout the country navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco, and it greatly enhanced my intrigue and wonder with the country. </th> 
 	</tr>
 </table>
