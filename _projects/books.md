@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All-time favorite books 
+title: all-time favorite books  
 description: ongoing list organized by genre for quick browsing 
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
@@ -136,7 +136,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/when_breath.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath <br> Becomes Air</a> <br> by Paul Kalanithi </th>
-		<th> Reflections on what makes life worth living from the unique perspective of a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi's firm connection to deeper meaning despite navigating an incredibly competitive career landscape. </th>
+		<th> Reflections on what makes life worth living from a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi not becoming distracted by such a competitive career and maintaining focus on what truly matters. </th>
 	</tr>
 </table>
 
@@ -218,13 +218,13 @@ table th:nth-of-type(3) {
 </table>
 
 <a id="tr"></a> 
-&nbsp;
+&nbsp;  <br /> 
 ## Travel 
 
 <table>
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/caliph_house_2.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/131011.The_Caliph_s_House">The Caliph's House</a> <br> by Tahir Shah </th>
-		<th> Anglo-Afghan writer Shah moves his family from London to Casablanca and travels throughout the country navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco, and it greatly enhanced my intrigue and wonder with the country. </th> 
+		<th> A Casablancan's quest to dispel haunted spirits, navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco, and it greatly enhanced my sense of wonder with the culture around me. </th> 
 	</tr>
 </table>
