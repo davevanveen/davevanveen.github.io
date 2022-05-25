@@ -16,7 +16,7 @@ category: growth
 <br>
 # Overview
 [//]: # During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Feel free to skim the whole list or just pick your favorite genre:
-An ongoing collection of books which have most inspired me and a brief reason why. Feel free to skim the whole page or just pick your favorite genre:
+A developing collection of books which have most inspired me and a brief reason why. Feel free to skim the whole page or just pick your favorite genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -88,7 +88,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/siddartha.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/30141085-siddartha?ac=1&from_search=true&qid=gCSnRfSCGr&rank=1">Siddartha</a> <br> by Herman Hesse </th>
-		<th> Journey of a wealthy Indian Brahmin who leaves a life of privilege to seek fulfillment. I was really intrigued by its synthesis of Eastern religion and Western individualism into a life containing very distinct chapters. </th>
+		<th> Journey of a wealthy Indian Brahmin who leaves a life of privilege to seek fulfillment. I was intrigued by its synthesis of Eastern religion and Western individualism into a life containing very distinct chapters. </th>
 	</tr>
 </table>
 
@@ -114,12 +114,12 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/promised_land.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/55361205-a-promised-land">A Promised Land</a> <br> by Barack Obama </th>
-		<th> Intimate view into Obama's internal tension between his idealistic dreams for a better world and the practical limitations of political office. I really admired his compassionate poise while making high-stakes moral decisions. </th>
+		<th> Intimate view into Obama's internal tension between his idealistic dreams for a better world and the practical limitations of political office. I was really impressed by his compassionate poise while making high-stakes moral decisions. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/team_of_rivals.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/2199.Team_of_Rivals?ac=1&from_search=true&qid=Tja7cMaFdU&rank=1">Team of Rivals</a> <br> by Doris Kearns Goodwin </th>
-		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through the Civil War. I found his extraordinary emotional intelligence and leadership skills profoundly inspiring. </th>
+		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through the Civil War. I found his extraordinary emotional intelligence and leadership skills remarkably inspiring. </th>
 	</tr>
 </table>
 
@@ -136,7 +136,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/when_breath.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath <br> Becomes Air</a> <br> by Paul Kalanithi </th>
-		<th> Reflections on what makes life worth living from a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi not becoming distracted by such a competitive career and maintaining focus on what truly matters. </th>
+		<th> Reflections on what makes life worth living from a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi for not becoming distracted amidst such a competitive career and maintaining focus on what truly matters. </th>
 	</tr>
 </table>
 
@@ -208,7 +208,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/power_of_now.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true&qid=NA7OIbrJSV&rank=1">The Power of Now</a> <br> by Eckhart Tolle </th>
-		<th> Thorough, tangible depiction of being present and how that enables a fulfilling life. This is often the first book I recommend for those interested in mindfulness, as I found it very helpful that Tolle re-iterates the same points from different angles. </th>
+		<th> Thorough, tangible explanations of being present and how that enables a fulfilling life. This is often the first book I recommend for those interested in mindfulness, as I found it very helpful that Tolle re-iterates the same points from different angles. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </th>
