@@ -225,6 +225,6 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/caliph_house_2.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/131011.The_Caliph_s_House">The Caliph's House</a> <br> by Tahir Shah </th>
-		<th> A Casablancan's quest to dispel haunted spirits, navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco, and it greatly enhanced my sense of wonder with the culture around me. </th> 
+		<th> A Casablancan's quest to dispel haunted spirits, navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco; my experience was greatly enhanced by Shah's cultural curiosity and impeccable articulation of solo travel. </th> 
 	</tr>
 </table>
