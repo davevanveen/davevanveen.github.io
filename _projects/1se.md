@@ -10,7 +10,7 @@ category: adventure
 &nbsp;
 ## Overview
 
-Write something about 1se here
+The concept of these projects is simple: record one second of video each day and stitch them together ([this app](https://1se.co/) makes it easy). I found it a very efficient way to punctuate the blur of time&mdash;just one second stimulates vivid memories of everything I experienced that day.
 
 &nbsp;
 ## Summer 2021 
@@ -21,7 +21,7 @@ Write something about 1se here
 </div>
 
 <div class="caption">
-    This project covers an untethered summer: bikepacking across Mexico, romping around the Western US, coexisting with loved ones in Wisconsin, and starting a new life chapter at Stanford.
+    An untethered summer: bikepacking across Mexico, romping around the Western US, coexisting with loved ones in Wisconsin, and starting a new life chapter at Stanford.
 </div>
 
 
@@ -34,5 +34,5 @@ Write something about 1se here
 </div>
 
 <div class="caption">
-	This project covers my move out of Austin, TX, and into the Bay Area with a London summer and solo travel in between. Grateful to the Data Science for Social Good community who made this such a special time!
+	My move out of Austin, TX, and into the Bay Area with a London summer and solo travel in between. Grateful to the Data Science for Social Good community who made this such a special time!
 </div>
