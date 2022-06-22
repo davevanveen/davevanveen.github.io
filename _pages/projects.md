@@ -2,9 +2,9 @@
 layout: page
 title: blog
 permalink: /blog/
-description:
+description: more posts coming soon!
 nav: true` 
-display_categories: [growth, adventure -- coming soon!]
+display_categories: [growth, adventure]
 horizontal: false
 ---
 <div class="projects">
