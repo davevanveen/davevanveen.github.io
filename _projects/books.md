@@ -52,7 +52,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/one_year_on_a_bike.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/33116851-one-year-on-a-bike">One Year on a Bike</a> <br> by Martijn Doolard </th>
-		<th>A journey from Amsterdam to Singapore with captivating photographs and journal entries. Amidst the usual day-to-day grind, books like this remind me of the profound possibility and sense of serendipity in cross continental cycling trips.</th>
+		<th>A journey from Amsterdam to Singapore with captivating photographs and journal entries. Amidst the day-to-day grind, this reminded me of the profound possibility and sense of serendipity in cross-continental cycling trips.</th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/nature_photography.jpg" width="100" height="100"> </th>
@@ -101,7 +101,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/supple_leopard.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard?ac=1&from_search=true&qid=V4XGZFkDDZ&rank=1">Becoming a Supple Leopard</a> <br> by Kelly Starrett </th>
-		<th> Mobility frameworks and exercises for an active lifestyle. The lessons I learned here were crucial for mitigating injury in ultra-distance cycling, while the fundamental intuition of biomechanics seem immensely valuable. </th>
+		<th> Mobility frameworks and exercises for an active lifestyle. The lessons learned here were crucial for my mitigating injury in ultra-distance cycling, while I found the fundamental intuition of biomechanics immensely valuable. </th>
 	</tr>
 </table>
 
@@ -114,12 +114,12 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/promised_land.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/55361205-a-promised-land">A Promised Land</a> <br> by Barack Obama </th>
-		<th> Intimate view into Obama's internal tension between his idealistic dreams for a better world and the practical limitations of political office. I was really impressed by his compassionate poise while making high-stakes moral decisions. </th>
+		<th> Intimate view into Obama's internal tension between his idealistic dreams for a better world and the practical limitations of political office. I was impressed by his compassionate poise while making high-stakes moral decisions. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/team_of_rivals.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/2199.Team_of_Rivals?ac=1&from_search=true&qid=Tja7cMaFdU&rank=1">Team of Rivals</a> <br> by Doris Kearns Goodwin </th>
-		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through the Civil War. I found his extraordinary emotional intelligence and leadership skills remarkably inspiring. </th>
+		<th> Gripping account of Lincoln's character and empathy leading a contentious group of his talented political rivals through the Civil War. I found his extraordinary emotional intelligence and leadership skills very inspiring. </th>
 	</tr>
 </table>
 
@@ -131,12 +131,12 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/mans_search_for_meaning.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning?ac=1&from_search=true&qid=NpgSbAvOlQ&rank=1">Man's Search for Meaning</a> <br> by Victor Frankl </th>
-		<th> Riveting memoir of Nazi death camps and the ensuing lessons learned during Frankl's career as a psychiatrist. It was a remarkable demonstration of the human ability to choose how we experience life and define purpose, even amidst grueling circumstances. </th>
+		<th> Riveting memoir of Nazi death camps and the ensuing lessons learned during Frankl's career as a psychiatrist. It was a striking demonstration of the human ability to choose how we experience life and define purpose, even amidst grueling circumstances. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/when_breath.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=IlJUAed5yf&rank=1">When Breath <br> Becomes Air</a> <br> by Paul Kalanithi </th>
-		<th> Reflections on what makes life worth living from a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi for not becoming distracted amidst such a competitive career and maintaining focus on what truly matters. </th>
+		<th> Reflections on the meaning of life from a neurosurgeon&mdash;who himself has advised hundreds of patients facing death&mdash;as he grapples with his own terminal diagnosis. I admired Kalanithi for seeking to focus on what truly matters amidst the distractions of a competitive career landscape. </th>
 	</tr>
 </table>
 
@@ -167,12 +167,12 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/how_to_win_friends.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/12176421-how-to-win-friends-and-influence-people-in-the-digital-age?ac=1&from_search=true&qid=bhaaBDtxeY&rank=1">How to Win Friends <br> and Influence People</a> <br> by Dale Carnegie </th>
-		<th> Fundamental, concise, and timeless advice for communication. This has helped me better co-exist and collaborate with people both professionally and personally. </th>
+		<th> Fundamental, concise, and timeless advice for communication. It's helped me better co-exist and collaborate with people, both on a professional and personal level. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/make_it_stick.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/18770267-make-it-stick?ac=1&from_search=true&qid=f24wJN0mPg&rank=1">Make it Stick</a> <br> by Peter Brown et al. </th>
-		<th> Principles of comprehension and memory supported by rigorous research plus tangible techniques for better learning. This completely conflicted my original intuition for how we humans learn. A must for any student or educator. </th>
+		<th> Principles of comprehension and memory supported by rigorous research plus tangible techniques for better learning. Much of this completely conflicted my original intuition. A must for any student or educator. </th>
 	</tr>
 </table>
 
@@ -185,7 +185,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/righteous_mind.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/11324722-the-righteous-mind?ac=1&from_search=true&qid=aSfXJxl1XX&rank=1">The Righteous Mind</a> <br> by Jonathan Haidt </th>
-		<th> Research examining moral intuition and its impact on the sociopolitical landscape&mdash;particularly relevant given today's personal information streams. Personally reading this enabled deeper understanding and empathy for people whose views (at first glance) seem so mind bogglingly different from my own. </th>
+		<th> Research examining moral intuition and its impact on the sociopolitical landscape&mdash;particularly relevant given today's individualized information streams. Personally, reading this enabled deeper understanding and empathy for people whose views seem so mind-bogglingly different from my own. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/think_again.jpg" width="100" height="100"> </th> 
@@ -195,7 +195,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/sapiens.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=hdkCdO7UAr&rank=1">Sapiens</a> <br> by Yuval Noah Harari </th>
-		<th> Wide-ranging account covering the entire timeline of our species and the formation of human societies. The perspetive in this book felt encouraging, as I'm generally concerned about our current civilization's trajectory entering the digital age. </th>
+		<th> Wide-ranging account covering the entire timeline of our species and the formation of human societies. The perspetive here felt encouraging, as I'm generally concerned about our civilization's trajectory entering the digital age. </th>
 	</tr>
 </table>
 
@@ -208,7 +208,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/power_of_now.jpg" width="100" height="100"> </th>
 		<th> <a href="https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true&qid=NA7OIbrJSV&rank=1">The Power of Now</a> <br> by Eckhart Tolle </th>
-		<th> Thorough, tangible explanations of being present and how that enables a fulfilling life. This is often the first book I recommend for those interested in mindfulness, as I found it very helpful that Tolle re-iterates the same points from different angles. </th>
+		<th> Thorough, tangible explanations of being present and how that enables a fulfilling life. This is often the first mindfulness book I recommend, as I found it very helpful that Tolle re-iterates the same points from different angles. </th>
 	</tr>
 	<tr>
 		<th> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </th>
