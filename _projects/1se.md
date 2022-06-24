@@ -1,7 +1,7 @@
 ---
 layout: page
 title: one second everyday
-description: video projects capturing seasons of transition and exploration
+description: video projects capturing seasons of life transition
 img: assets/img/2206_1se/1se_2019_cover_wide.jpg
 importance: 1
 category: adventure
