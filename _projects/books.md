@@ -70,7 +70,7 @@ table th:nth-of-type(3) {
 	<tr>
 		<th> <img style="float: left;" src="/assets/img/2205_books/braiding_sweetgrass.jpg" width="100" height="100"> </th> 
 		<th> <a href="https://www.goodreads.com/book/show/17465709-braiding-sweetgrass?ac=1&from_search=true&qid=QNh0uKb2ll&rank=1">Braiding Sweetgrass</a> <br> by Robin Wall Kimmerer </th>
-		<th> Interweaving scientific and indigenous knowledge of nature with the goal of awakening a wider ecological consciousness. It prompted me to consider our reciprocal relationship with the world and to cultivate ways I can give in return. </th>
+		<th> Interweaving scientific and indigenous knowledge of nature with the goal of awakening a wider ecological consciousness. It prompted me to consider our reciprocal relationship with the world&mdash;and to cultivate ways I can give back. </th>
 	</tr>
 </table>
 
