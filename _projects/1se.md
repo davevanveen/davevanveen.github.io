@@ -36,5 +36,5 @@ Below are two such projects, each covering roughly four months during a period o
 </div>
 
 <div class="caption">
-	My move out of Austin, TX, and into the Bay Area with a London summer and solo travel in between. Thank you to the <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> community who made this such a special chapter!
+	My move out of Austin, TX, and into the Bay Area with a London summer and solo travel in between. Shoutout to the <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> community who made this such a special chapter!
 </div>
