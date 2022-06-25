@@ -8,7 +8,7 @@ middle_name:
 last_name: Van Veen
 email: davemvanveen@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Dave Van Veen's personal site
+  DVV's personal site
 footer_text: >
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
