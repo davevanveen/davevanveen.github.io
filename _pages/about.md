@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a>
+description: PhD Candidate <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a>
 
 profile:
   align: right 
