@@ -1,7 +1,7 @@
 ---
 layout: page
-title: my pomodoro system
-description: lessons learned...
+title: pomodoro system design
+description: establishing a more productive, balanced lifestyle
 img: assets/img/2205_books/book_collage_v2.png 
 importance: 1
 category: growth
@@ -38,7 +38,7 @@ Another unexpected benefit is that starting a tomato can help me overcome the ac
     </div>
 </div>
 <div class="caption">
-    My responses to "what did you do?" this past year, depicting how my time is used. To create your own word cloud, here's my <a href="xxx">python code</a>
+    My responses to "what did you do?" this past year, depicting how my time is used. To create your own word cloud, here's my <a href="xxx">python code</a>.
 </div>
 
 <br>
