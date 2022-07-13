@@ -15,7 +15,6 @@ category: growth
 
 <br>
 # Overview
-[//]: # During the first year of covid, I had the delight of reading a new book every week. Here are those which stood out and a brief reason why. Feel free to skim the whole list or just pick your favorite genre:
 A developing collection of books which have most inspired me and a brief reason why. Feel free to skim the whole page or just pick your favorite genre:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
