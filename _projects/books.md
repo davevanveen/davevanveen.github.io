@@ -1,7 +1,7 @@
 ---
 layout: page
-title: all-time favorite books  
-description: ongoing list organized by genre for quick browsing 
+title: most inspiring books
+description: ongoing list organized by genre for quick browsing
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
 category: growth
