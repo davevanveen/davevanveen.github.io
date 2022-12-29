@@ -2,7 +2,7 @@
 layout: page
 title: blog
 permalink: /blog/
-description: more coming soon! 
+description:
 nav: true` 
 display_categories: [.]
 horizontal: false
