@@ -4,7 +4,7 @@ title: pomodoro system design
 description: establishing a more productive, balanced lifestyle
 img: assets/img/2212_pomodoro/tom_header.png 
 importance: 1
-category: .
+category: growth
 ---
 
 <br>
@@ -42,11 +42,11 @@ Sequential steps of one tomato interval using my favorite <a href="https://mytom
 </div>
 <br>
 
-There are many pomodoro trackers out there, but I really like this one prompting "what did you do?" It forces me to pop my head up and briefly consider how my current sub-task contributes toward the overall project. Many unproductive rabbit holes have been avoided this way. 
-For fun, I've extracted all my responses from this past year to make a word cloud depicting how I use my time (see below).
+There are many pomodoro trackers out there, but I really like this one prompting "what did you do?" It forces me to pause and briefly consider how my current sub-task contributes toward the overall project. Many unproductive rabbit holes have been avoided this way. 
+For fun, I've extracted all my responses from 2022 into a word cloud depicting how I use my time (see below).
 
 Another unexpected benefit is that starting a tomato can help me overcome the activation energy for beginning work. Say I'm feeling tired, or there's a task I just don't feel like doing. I'll negotiate with myself: "spend one tomato on this task; if afterward you're still not in the mood, you can stop." 
-Almost always I'll find my groove and feel motivated.
+Almost always I'll find my groove and become motivated.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -67,17 +67,17 @@ Now I'll discuss how I've integrated the pomodoro method on a daily and weekly b
 # System 1: daily quota
 Initially I employed a simple system: each day, accomplish $$\geq n$$ tomatoes. This number may be tuned depending on the week, but typically $$n=16$$. Essential meetings count as one tomato; this incentivizes shorter, efficient meetings and still makes the quota attainable on days my calendar is jammed. 
 
-Overall this system empowered me to develop focus. However, it worked poorly in these two scenarios:
-* _Not reaching $$n$$_. Some days life pulls in a different direction. Clinging to a minimum feels overly rigid when other opportunities arise.
-* _Far exceeding $$n$$_. There's always more work, and I struggle knowing when to stop. Some days I'd do an unsustainable 25+ tomatoes. This often created an energy deficit which later I'd need to reconcile.
+Overall this system empowered me to develop focus. However, I found it suboptimal in two scenarios:
+* <u>Not reaching the quota</u>. Some days life pulls in a different direction. Clinging to a minimum feels overly rigid when other opportunities arise.
+* <u>Far exceeding the quota</u>. There's always more work, and I struggle knowing when to stop. Some days I'd do an unsustainable 25+ tomatoes. This often created an energy deficit which later I'd need to reconcile.
 
 <br>
 # System 2: weekly quota + daily cap
 Instead of a lower bound for the day, I now set one for the week ($$\geq 5n$$ weekly) in addition to an upper bound each day ($$ \leq n$$ daily). That is, if I achieve $$n$$, I must stop working that day. This system has been a huge improvement, and here's why:
-* _Incentivizes an early start_. Beginning my work day sooner creates more space later in the day.
-* _Motivates quick bursts_. I'm eager to capitalize on short windows of time, e.g. given 30 minutes between meetings. 
-* _Creates a clear end-of-day_. Once my daily cap is reached, I feel confident surrendering undone tasks.
-* _Spreads responsibility across the week_. It's easier to accept lighter work days when something else comes up. My weekly quota usually isn't reached by Friday, but I'm happy to work on the weekend if it means I can surf guilt-free on a Tuesday.
+* <u>Incentivizes an early start</u>. Beginning my work day sooner creates more space later in the day.
+* <u>Motivates quick bursts</u>. I'm eager to capitalize on short windows of time, e.g. given 30 minutes between meetings. 
+* <u>Creates a clear end-of-day</u>. Once my daily cap is reached, I feel confident surrendering undone tasks.
+* <u>Spreads responsibility across the week</u>. It's easier to accept lighter work days when something else comes up. My weekly quota usually isn't reached by Friday, but I'm happy to work on the weekend if it means I can surf guilt-free on a Tuesday.
 
 Funny enough, by setting a daily limit, I'm actually more productive overall (see graph below). [Here's an article](https://jamesclear.com/average-speed%29) discussing why "average speed" is more important than "peak speed."
 
