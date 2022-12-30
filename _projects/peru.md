@@ -4,7 +4,7 @@ title: a brush with death
 description: lessons of impermanence from the peruvian backcountry
 img: assets/img/2209_peru/llamas.JPG
 importance: 2
-category: .
+category: adventure
 ---
 
 <br>

@@ -4,7 +4,7 @@ title: blog
 permalink: /blog/
 description:
 nav: true` 
-display_categories: [.]
+display_categories: [adventure, growth]
 horizontal: false
 ---
 <div class="projects">
