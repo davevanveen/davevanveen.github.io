@@ -9,7 +9,7 @@ category: adventure
 
 <br>
 
-My dear friend Yaak and I undertook a 43-mile pilgrimage to Machu Picchu called the [Salkantay Trek](https://www.alltrails.com/trail/peru/cusco/salkantay-trek?u=i) (salkantay = "savage mountain" in Quechua).
+My dear friend [Yaak](https://jacobwinick.com/) and I undertook a 43-mile pilgrimage to Machu Picchu called the [Salkantay Trek](https://www.alltrails.com/trail/peru/cusco/salkantay-trek?u=i) (salkantay = "savage mountain" in Quechua).
 Confident in our wilderness skills and eager for solitude, we embarked without guides or a group&mdash;just us, herds of alpaca, and possibility as vast as the mountainous landscape ahead.
 
 <br>

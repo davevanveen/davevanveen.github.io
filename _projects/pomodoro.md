@@ -60,19 +60,20 @@ Almost always I'll find my groove and become motivated.
 </div>
 <br>
 
+# System Design
+
 Now I'll discuss how I've integrated the pomodoro method on a daily and weekly basis, and how minor tweaks made a big difference for mental health and relationship with work.
 
-<br>
+### System 1: daily quota
+Initially I employed a simple system: each day, complete $$\geq n$$ tomatoes. The quota may vary, but typically $$n=16$$.
+Surprisingly, this amount of deep work can be intense. On average, [most people are productive for three hours](https://www.inc.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html) per day.
+Note I count essential meetings as one tomato, regardless of length; this makes the quota attainable on days my calendar is jammed.
 
-# System 1: daily quota
-Initially I employed a simple system: each day, accomplish $$\geq n$$ tomatoes. This number may be tuned depending on the week, but typically $$n=16$$. Essential meetings count as one tomato; this incentivizes shorter, efficient meetings and still makes the quota attainable on days my calendar is jammed. 
-
-Overall this system empowered me to develop focus. However, I found it suboptimal in two scenarios:
+Overall this approach empowered me to develop focus. However, I found it suboptimal in two scenarios:
 * <u>Not reaching the quota</u>. Some days life pulls in a different direction. Clinging to a minimum feels overly rigid when other opportunities arise.
-* <u>Far exceeding the quota</u>. There's always more work, and I struggle knowing when to stop. Some days I'd do an unsustainable 25+ tomatoes. This often created an energy deficit which later I'd need to reconcile.
+* <u>Far exceeding the quota</u>. There's always more work, and I struggle knowing when to stop. Some days I'd do an unsustainable 25+ tomatoes. This often created an energy deficit which I'd later need to reconcile.
 
-<br>
-# System 2: weekly quota + daily cap
+### System 2: weekly quota + daily cap
 Instead of a lower bound for the day, I now set one for the week ($$\geq 5n$$ weekly) in addition to an upper bound each day ($$ \leq n$$ daily). That is, if I achieve $$n$$, I must stop working that day. This system has been a huge improvement, and here's why:
 * <u>Incentivizes an early start</u>. Beginning my work day sooner creates more space later in the day.
 * <u>Motivates quick bursts</u>. I'm eager to capitalize on short windows of time, e.g. given 30 minutes between meetings. 
