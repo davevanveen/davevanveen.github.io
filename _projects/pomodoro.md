@@ -9,8 +9,8 @@ category: growth
 
 <br>
 
-Years ago I was frustrated with how I worked, suffering from undirected time at my desk and undefined boundaries between work and personal time. 
-I was not the efficient and balanced human I wanted to be.
+Years ago I was frustrated with how I worked, suffering from undirected time at my desk and undefined boundaries between my professional and personal life.
+I was not the efficient, balanced human I wanted to be.
 
 Initially a quest to become more focused, this project completely shifted my orientation toward work&mdash;enabling me to establish boundaries and accept my finitude, despite always having more to do.
 Hopefully this journey toward improved productivity and balance can offer a nugget of insight for your own.
@@ -29,7 +29,7 @@ Hopefully this journey toward improved productivity and balance can offer a nugg
 # Pomodoro Method
 The [pomodoro method](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a time-management technique which separates work into fixed intervals, referred to as "tomatoes" (pomodoro is Italian for tomato). Typical length for one tomato is 25 minutes. Critically, this time must be committed to pure work; if one becomes distracted or interrupted, the rule is to "squash" that tomato and re-start the clock. Personally, turning off notifications has been indispensable for avoiding squashes.
 
-To track tomatoes, I use [this simple web tool](https://mytomatoes.com/), which breaks one interval into three steps: (1) start the timer (2) work for 25 minutes (3) record what you did. It also provides the option for a five-minute break; personally I prefer to complete 4-8 consecutive tomatoes before taking a longer rest.
+To track tomatoes, I use [this simple web tool](https://mytomatoes.com/), which breaks one interval into three steps: (1) start the timer (2) work for 25 minutes (3) record what you did. It also provides the option for a five-minute break; instead I prefer to complete 4-8 consecutive tomatoes before taking a longer rest.
 
 <br>
 <div class="row">
@@ -43,7 +43,7 @@ Sequential steps of one tomato interval using my favorite <a href="https://mytom
 <br>
 
 There are many pomodoro trackers out there, but I really like this one prompting "what did you do?" It forces me to pause and briefly consider how my current sub-task contributes toward the overall project. Many unproductive rabbit holes have been avoided this way. 
-For fun, I've extracted all my responses from 2022 into a word cloud depicting how I use my time (see below).
+To depict how my time was used in 2022, I created a word cloud (see below).
 
 Another unexpected benefit is that starting a tomato can help me overcome the activation energy for beginning work. Say I'm feeling tired, or there's a task I just don't feel like doing. I'll negotiate with myself: "spend one tomato on this task; if afterward you're still not in the mood, you can stop." 
 Almost always I'll find my groove and become motivated.
@@ -62,11 +62,10 @@ Almost always I'll find my groove and become motivated.
 
 # System Design
 
-Now I'll discuss how I've integrated the pomodoro method on a daily and weekly basis, and how minor tweaks made a big difference for mental health and relationship with work.
+Now I'll discuss how I've integrated the pomodoro method into my workflow, and how minor tweaks have made a big difference for my mental health and relationship with work.
 
 ### System 1: daily quota
 Initially I employed a simple system: each day, complete $$\geq n$$ tomatoes. The quota may vary, but typically $$n=16$$.
-Surprisingly, this amount of deep work can be intense. On average, [most people are productive for three hours](https://www.inc.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html) per day.
 Note I count essential meetings as one tomato, regardless of length; this makes the quota attainable on days my calendar is jammed.
 
 Overall this approach empowered me to develop focus. However, I found it suboptimal in two scenarios:
