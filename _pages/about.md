@@ -13,20 +13,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm passionate about exploring new ways that data can be used to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
-My goal is to equip myself with the skills to steer emerging technology's societal impact in a more positive direction.
+I'm passionate about exploring new ways we can use data to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
+Ultimately my goal is to steer emerging technology's societal impact in a more positive direction.
 
-To that end, I am pursuing a PhD in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
-My research is focused on developing machine learning algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI, cryo-EM, and fluoroscopy. 
+[//]: # My goal is to equip myself with the skills to steer emerging technology's societal impact in a more positive direction.
+
+Currently I am pursuing a PhD in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
+My research is focused on developing machine learning (ML) algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI and cryo-EM. I'm also excited about harnessing large language models to improve healthcare.
 
 [//]: # such as compressed sensing and MRI reconstruction. 
 
 [//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 
 ## bio
-Prior to beginning at Stanford, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> developing imaging algorithms for commercial deployment.
-Previously he earned a M.S. in EE from the University of Texas performing machine learning research under the supervision of <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
+Prior to beginning his PhD, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and the <a href="">Artifical Intelligence in Medicine & Imaging (AIMI)</a> center at Stanford.
+Previously he earned a M.S. in EE from the University of Texas conducting ML research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
 and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which time he also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London. 
-Before that Dave earned a B.S. in EE from the University of Wisconsin, where his main project was leading a 150-person <a href="https://badgerloop.org/about-past.html">organization</a> to build a hyperloop pod for SpaceX.
-
-[//]: # Ultimately I view the PhD as training to cultivate my capacity to conceive, evaluate, and develop new ideas so I can become a leader in technological innovation.
+Before that Dave earned a B.S. in EE from the University of Wisconsin, where he led a 150-person <a href="https://badgerloop.org/about-past.html">organization</a> to build a hyperloop pod for SpaceX.
