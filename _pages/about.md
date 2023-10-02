@@ -16,12 +16,8 @@ social: true  # includes social icons at the bottom of the page
 I'm passionate about exploring new ways we can use data to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
 Ultimately my goal is to steer emerging technology's societal impact in a more positive direction.
 
-[//]: # My goal is to equip myself with the skills to steer emerging technology's societal impact in a more positive direction.
-
 Currently I am pursuing a PhD in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
-My research is focused on developing machine learning (ML) algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI and cryo-EM. I'm also excited about harnessing large language models to improve healthcare.
-
-[//]: # such as compressed sensing and MRI reconstruction. 
+My research is focused on developing machine learning (ML) algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI and cryo-EM. I'm also excited about harnessing foundation models to improve healthcare workflows.
 
 [//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 
