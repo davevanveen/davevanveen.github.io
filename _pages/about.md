@@ -13,11 +13,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm passionate about exploring new ways we can use data to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
-Ultimately my goal is to steer emerging technology's societal impact in a more positive direction.
+I'm passionate about using data to solve important problems in areas such as healthcare, education, and socioeconomic disparity. 
+My ultimate goal is to steer emerging technology's societal impact in a positive direction.
 
-Currently I am pursuing a PhD in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
-My research is focused on developing machine learning (ML) algorithms for computational imaging problems, from computer vision applications to physics-based modalities such as MRI and cryo-EM. I'm also excited about harnessing foundation models to improve healthcare workflows.
+Currently I am a final-year PhD candidate in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
+My research includes two major threads:
+1. harnessing foundation models to improve healthcare workflows
+2. developing machine learning (ML) algorithms for computational imaging, spanning computer vision and inverse problems
 
 [//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 
@@ -26,3 +28,4 @@ Prior to beginning his PhD, Dave spent two years as a research scientist at a Ba
 Previously he earned a MS in EE at the University of Texas conducting ML research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
 and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which he also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London. 
 Before that Dave earned a BS in EE at the University of Wisconsin, where he created and led a 150-person <a href="https://badgerloop.org/about-past.html">organization</a> to build a hyperloop pod for SpaceX.
+<br>
