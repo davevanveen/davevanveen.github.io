@@ -92,7 +92,7 @@ collections:
     output: true
     permalink: /blog/:path/ # originally /projects/:path/
 
-news_limit: 6
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
