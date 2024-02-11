@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm passionate about exploring new ways we can use data to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
+I am passionate about exploring new ways we can use data to solve important problems in areas such as medicine, education, and socioeconomic disparity. 
 Ultimately my goal is to steer emerging technology's societal impact in a more positive direction.
 
 Currently I am pursuing a PhD in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>. 
