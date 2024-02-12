@@ -6,7 +6,7 @@ subtitle: PhD Candidate <br> <a href="https://profiles.stanford.edu/dave-van-vee
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_rect.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
