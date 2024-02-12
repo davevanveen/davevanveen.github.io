@@ -1,9 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - davevanveen
 
 github_repos:
-  - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
