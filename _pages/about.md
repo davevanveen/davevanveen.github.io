@@ -2,25 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm passionate about using data to solve important problems in areas such as healthcare, education, and socioeconomic disparity.
+My ultimate goal is to steer emerging technology's societal impact in a positive direction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently I am a final-year PhD candidate in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, and <a href="https://stanford.edu/~gordonwz/">Gordon Wetzstein</a>.
+My research includes two major threads:
+1. harnessing foundation models to improve healthcare workflows
+2. developing machine learning (ML) algorithms for computational imaging, spanning computer vision and inverse problems
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
+
+## bio
+Prior to beginning his PhD, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and the <a href="">Artifical Intelligence in Medicine & Imaging (AIMI)</a> center at Stanford.
+Previously he earned a MS in EE at the University of Texas conducting ML research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
+and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which he also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London.
+Before that Dave earned a BS in EE at the University of Wisconsin, where he created and led a 150-person <a href="https://badgerloop.org/about-past.html">organization</a> to build a hyperloop pod for SpaceX.
+<br>
