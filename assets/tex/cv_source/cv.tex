@@ -1,0 +1,110 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% -*- coding: UTF-8; -*-
+% vim: set fenc=utf-8
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% SIMPLE-RESUME-CV
+%% <https://github.com/zachscrivena/simple-resume-cv>
+%% This is free and unencumbered software released into the
+%% public domain; see <http://unlicense.org> for details.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% See "README.md" for instructions on compiling this document.
+
+\documentclass[letterpaper,MMMyyyy,nonstopmode]{simpleresumecv}
+% Class options:
+% a4paper, letterpaper, nonstopmode, draftmode
+% MMMyyyy, ddMMMyyyy, MMMMyyyy, ddMMMMyyyy, yyyyMMdd, yyyyMM, yyyy
+
+\usepackage{xcolor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PREAMBLE.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% CV Info (to be customized).
+\newcommand{\CVAuthor}{Dave Van Veen}
+\newcommand{\CVTitle}{John Doe's CV for Acme Corporation}
+\newcommand{\CVNote}{CV compiled on {\today} for Acme Corporation}
+\newcommand{\CVWebpage}{davevanveen.com}
+
+
+% PDF settings and properties.
+\hypersetup{
+pdftitle={\CVTitle},
+pdfauthor={\CVAuthor},
+pdfsubject={\CVWebpage},
+pdfcreator={XeLaTeX},
+pdfproducer={},
+pdfkeywords={},
+unicode=true,
+bookmarks=true,
+bookmarksopen=true,
+pdfstartview=FitH,
+pdfpagelayout=OneColumn,
+pdfpagemode=UseOutlines,
+hidelinks,
+breaklinks}
+
+% Shorthand.
+\newcommand{\Code}[1]{\mbox{\textbf{#1}}}
+\newcommand{\CodeCommand}[1]{\mbox{\textbf{\textbackslash{#1}}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ACTUAL DOCUMENT.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%
+% TITLE BLOCK %
+%%%%%%%%%%%%%%%
+
+\Title{\CVAuthor}
+
+\begin{SubTitle}
+\href{http://davevanveen.com}
+{\url{\CVWebpage}}
+\,\SubBulletSymbol\,
+\href{https://goo.gl/maps/oaB7nui61LZjBZi99}
+{Stanford, CA 94305}
+\par
+\href{mailto:davemvanveen@gmail.com}
+{davemvanveen@gmail.com}
+\,\SubBulletSymbol\,
++1\,(608)\,575-9951
+\end{SubTitle}
+
+% \begin{SubTitle}
+% \href{\CVWebpage}
+% {\url{\CVWebpage}}
+% \,\SubBulletSymbol\,
+% \href{mailto:davemvanveen@gmail.com}{davemvanveen@gmail.com}
+% \par
+% \href{https://goo.gl/maps/oaB7nui61LZjBZi99}{Stanford, CA 94305}
+% \,\SubBulletSymbol\,
+% +1\,(608)\,575-9951
+% \end{SubTitle}
+
+%%%%%%%%%%%%%%%
+% BODY %
+%%%%%%%%%%%%%%%
+
+\begin{Body}
+\let\clearpage\relax % kill automatic newpage b/w sections
+
+\include{sections/education}
+\include{sections/experience}
+\include{sections/publications}
+\include{sections/patents}
+\include{sections/grants}
+\include{sections/awards}
+\include{sections/talks}
+
+% \newpage % Manual page break.
+% \include{sections/template_unused}
+
+\end{Body}
+% \UseNoteFont % \null\hfill % [\textit{\CVNote}] % include CVNote
+\end{document}
