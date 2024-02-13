@@ -68,8 +68,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 linkedin_username: davevanveen # your LinkedIn user name
 scholar_userid: lP73UFAAAAAJ&hl # your Google Scholar ID
 github_username: davevanveen # your GitHub user name
-instagram_username: dave.vv
-strava_username: davevanveen
+instagram_id: dave.vv
+strava_userid: davevanveen
 # to add more socials, see _includes/socials.html
 
 contact_note: >
