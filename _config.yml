@@ -143,7 +143,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /blog/:path/
 
 announcements:
   enabled: true 
