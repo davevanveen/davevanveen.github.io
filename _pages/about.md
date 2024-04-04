@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m passionate about using data to solve important problems in areas such as healthcare, education, and social equity. My primary ambition is to guide emerging technology’s impact toward beneficial outcomes.
 
-Currently I am a final-year PhD candidate in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a> and <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>.
+Currently I am a final-year PhD candidate in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a> and <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>.<br>
 My research includes two major threads:
 1. adapting foundation models to improve healthcare workflows
 2. developing machine learning (ML) algorithms for inverse problems in computational imaging and signal processing
