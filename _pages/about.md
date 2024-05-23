@@ -26,7 +26,7 @@ My research includes two major threads:
 [//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
 
 ## bio
-Prior to beginning his PhD, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and the <a href="">Artifical Intelligence in Medicine & Imaging (AIMI)</a> center at Stanford.
+Prior to beginning his PhD, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and the <a href="">Artificial Intelligence in Medicine & Imaging (AIMI)</a> center at Stanford.
 Previously he earned a MS in EE at the University of Texas conducting ML research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
 and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which he also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London.
 Before that Dave earned a BS in EE at the University of Wisconsin, where he created and led a 150-person <a href="https://universityresearchpark.org/badgerloops-run-for-hyperloop-glory-captures-the-attention-of-elon-musk/">organization</a> to build a hyperloop pod for SpaceX.
