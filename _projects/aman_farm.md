@@ -10,7 +10,6 @@ related_publications: false
 
 <br>
 
-# Intro
 In the 1960s, my mom, Kathy, grew up on a small dairy farm in Michigan's Upper Peninsula ("da U.P.") alongside her parents, Ann and Vince Aman, and three siblings, Bruce, Kay, and Karen. 
 This piece aims to capture what it was like growing up in that time and place, preserving a way of life before it fades from view.
 
@@ -53,7 +52,7 @@ Nobody talked much about feelings. Kids rarely questioned the fairness of chores
 </div>
 <br>
 
-# The Farm Fed Them
+# Living Off the Land
 The farm provided roughly three-quarters of the family's food.
 
 Each year, they butchered a steer. During hunting season, the freezer filled with venison---two deer every year, one shot by Vince and one by Bruce. The garden supplied potatoes, carrots, onions, beans, and peas. Apples were peeled and turned into applesauce. Blueberries and raspberries were canned and shelved for winter.
