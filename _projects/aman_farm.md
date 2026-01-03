@@ -1,7 +1,7 @@
 ---
 layout: page
 title: growing up in da u.p.
-description: remembering a dairy farm childhood, circa the 1960s
+description: remembering a 1960s dairy farm childhood
 img: assets/img/2512_aman_farm/farm/farm_w_moon.jpg
 importance: 3
 category: adventure
@@ -10,8 +10,8 @@ related_publications: false
 
 <br>
 
-In the 1960s, my mom, Kathy, grew up on a small dairy farm in Michigan's Upper Peninsula ("da U.P.") alongside her parents, Ann and Vince Aman, and three siblings, Bruce, Kay, and Karen. 
-This piece aims to capture what it was like growing up in that time and place, preserving a way of life before it fades from view.
+In the 1960s, my mom, Kathy, grew up on a small dairy farm in Michigan's Upper Peninsula ("da U.P.") alongside her parents, Ann and Vince Aman, and her three siblings, Bruce, Kay, and Karen. 
+This piece aims to capture what it was like growing up in that time and place, preserving a way of life before it fades from living memory.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -25,17 +25,17 @@ Aerial photograph of the Aman farm, circa 1970.
 <br>
 
 # Routine
-Farm life revolved around milking the cows. They ran on a twelve-hour clock, and everything else---school, supper, sleep---fit around that rhythm.
+Farm life revolved around milking the cows. They ran on a twelve-hour clock, and everything else---school, supper, sleep---followed that rhythm.
 
 "It was routine," Bruce says. "Twice a day. Didn't matter if it was a weekday or a weekend or a holiday."
 
-Their father, Vince, got up around 4:30 a.m. to feed and milk the cows. He then washed up, changed clothes, and worked eight hours at the Peterson Fence Factory in Carney. After his shift, he came home, ate supper, and went straight back out to the barn for evening milking.
+Their father, Vince, got up at 4:30 a.m. to feed and milk the cows. He then washed up, changed clothes, and worked eight hours at the Peterson Fence Factory in Carney. After his shift, he came home, ate supper, and went straight back out to the barn for evening milking.
 
 "I don't know how he did it," Bruce says. "I really don't."
 
-After nightly chores, an exhausted Vince would sit down in his recliner with the newspaper. On most nights, he fell asleep before making it to the second page.
+After nightly chores, an exhausted Vince would sit down in his recliner with the newspaper. Most nights he fell asleep before making it to the second page.
 
-Their mother, Ma, kept everything else running. Meals appeared on the table like clockwork. Clothes were washed. The kids and the house stayed clean. Food was canned and frozen for winter. Some afternoons, she watched a soap opera or called a neighbor, but most waking hours were spent keeping the household moving.
+Their mother, Ann, kept everything else running. Meals appeared on the table like clockwork. Clothes were washed. The kids and the house stayed clean. Food was canned and frozen for winter. Some afternoons, she watched a soap opera or called a neighbor, but most waking hours were spent keeping the household moving.
 
 Nobody talked much about feelings. Kids rarely questioned the fairness of chores; if they did, Ann would say firmly, "Quit your complaining, or I'll give you something to complain about." You were part of the family, and you played your part. That was enough.
 
@@ -52,16 +52,18 @@ Nobody talked much about feelings. Kids rarely questioned the fairness of chores
 </div>
 <br>
 
-# Living Off the Land
+# Living off the land
 The farm provided roughly three-quarters of the family's food.
 
-Each year, they butchered a steer. During hunting season, the freezer filled with venison---two deer every year, one shot by Vince and one by Bruce. The garden supplied potatoes, carrots, onions, beans, and peas. Apples were peeled and turned into applesauce. Blueberries and raspberries were canned and shelved for winter.
+Each year, they butchered a steer. During hunting season, the freezer filled with venison---two deer every year, one shot by Vince and one by Bruce. The garden supplied potatoes, carrots, onions, beans, and peas.
+Blueberries and raspberries were canned and shelved for winter.
+Apples were peeled and turned into applesauce; Kathy recalls they once canned 65 quarts of applesauce in a single day.
 
-"It's amazing, thinking back," Kathy says. "How much we grew and put up."
+"It's amazing, thinking back," Kathy says. "How much we grew ourselves."
 
 The essentials they didn't produce themselves came from the store---bread, cereal, and bologna.
 
-Milk was the farm's main product. Every couple of days, metal milk cans were filled and stored in a concrete bathtub to keep them cool. The milkman, Dean, came by regularly to collect them. On Christmas, it was customary to invite him inside for a shot of whiskey---a tradition shared by nearly every family on his route. By the end of the day, Dean had usually had more than a few.
+Milk was the farm's main product. Every couple of days, metal milk cans were filled and stored in a concrete bathtub to keep them cool. The milkman, Dean, came by regularly to collect them. On Christmas, it was customary to invite him inside for a shot of whiskey---a tradition shared by nearly every family on his route. By the end of the day, Dean usually had more than a few.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -77,14 +79,14 @@ Autumn harvest, 1970.
 </div>
 <br>
 
-# Seasonal Changes
-Winter meant the cows stayed inside, so the barn had to be cleaned daily. An apron chain carried manure into the spreader, which had to be emptied immediately---before it froze solid.
+# Seasonal changes
+Winter meant that cows stayed inside, so the barn was cleaned daily. An apron chain carried manure into the spreader, which had to be emptied immediately---before it froze solid.
 
 "If it froze in the spreader," Bruce says, "you had big problems."
 
-In summer, the cows grazed outside and came into the barn only for milking. Milk production increased once fresh grass came in, and the barn stayed cleaner longer.
+In summer, cows grazed outside and came into the barn only for milking. Milk production increased once fresh grass came in, and the barn stayed cleaner longer.
 
-Summer also meant haying. Cutting. Raking. Baling. Everyone had a job—stacking bales, working the elevator, climbing into the haymow. Because the younger kids weren't as physically strong, they were often tasked with driving the tractor, sometimes as young as seven years old.
+Summer also meant haying. Cutting. Raking. Baling. Everyone had a job—stacking bales, working the elevator, climbing into the haymow. Because the younger kids were less physically able, they often drove the tractor, starting as young as seven years old.
 
 "It was intense," Kathy says. "Busy days. Everybody was involved."
 
@@ -103,8 +105,8 @@ Aerial photograph of the Aman farm, 1982.
 </div>
 <br>
 
-# Daily Comforts
-At their first farm, the only indoor plumbing was a kitchen sink. There was no toilet and no shower.
+# Daily comforts
+At their first farm, the only indoor plumbing was a kitchen sink. There was no toilet or shower.
 
 When nature called, adults went to the outhouse. Younger kids used a bucket kept in the corner of the kitchen.
 
@@ -129,14 +131,14 @@ Retired outhouse, 2016.
 </div>
 <br>
 
-# Corralling the Cows
-When a cow went into heat, Vince would tell Ann to "call the bull man." He arrived the same day, catalogue in hand, flipping through pages that listed different bulls and their traits---milk production, temperament, strength. Cows were inseminated on the spot, part of the routine business of keeping the herd going.
+# Corralling the cows
+When a cow went into heat, Vince would tell Ann to "call the bull man." He arrived the same day, catalogue in hand, flipping through pages that listed different bulls and their traits. Cows were inseminated on the spot, part of the routine business of keeping the herd going.
 
 Not all farm work was predictable. Once, when Kathy was twelve, she was trimming grass beneath an electric fence with a sickle---necessary work, since tall grass could short out the wire. She was careful not to touch the fence.
 
 Suddenly, an aggressive cow came up behind her, pinning her between the animal and the electrified wire. With no way out, Kathy swung the sickle. It lodged squarely between the cow's eyes, stunning it just long enough for her to duck under the fence and escape.
 
-Vince came later to remove the sickle, and the cow continued on its way.
+Vince later removed the sickle, and the cow continued on its way.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -149,7 +151,7 @@ Vince working with cows in the field, 1969.
 </div>
 <br>
 
-# Animal Friendships
+# Animal friendships
 There were outdoor dogs, barn cats, and frequent litters of kittens. Each child had a favorite cow---and every cow had a name. Kathy's was Sylvia. Bruce's was Crooked Face.
 
 And then there was Willie.
@@ -208,7 +210,7 @@ Hanging around the farm, 1982.
 </div>
 <br>
 
-# Play Was Outside
+# Play was outside
 When there was time to play, it happened outdoors.
 
 They built forts in the woods from scrap lumber their father brought home from work. Bruce even built roads back there---waiting for the county road commission to fill potholes, then quickly scooping up leftover blacktop with his Radio Flyer wagon and hauling it into the woods.
@@ -219,7 +221,7 @@ There were sandboxes made from tractor tires, a swing set, tricycles, and later 
 
 If danger existed, fear didn't. Kids rode bikes miles to friends' houses. They played unsupervised. Nobody worried much.
 
-# Community, No Calendars
+# Community, no calendars
 The farm sat miles from town, but it wasn't lonely.
 
 Neighbors and relatives dropped by without calling. Sunday afternoons filled with cards, coffee, cake, sausage, pie, and ice cream.
@@ -228,7 +230,7 @@ Neighbors and relatives dropped by without calling. Sunday afternoons filled wit
 
 The phone was a party line---one shared line among multiple households. Calls were limited to ten minutes. Sometimes, you could hear someone on the other end.
 
-"Our neighbor Fred," Bruce recalls. "You'd hear this heavy breathing. He was an old bachelor. Probably just had nothing to do."
+"Our neighbor Fred," Bruce recalls. "You'd hear his heavy breathing. He was an old bachelor. Probably just had nothing to do."
 
 <br>
 <div class="row justify-content-sm-center">
@@ -241,7 +243,7 @@ Gathering around the kitchen table, 1974.
 </div>
 <br>
 
-# Windows to a Bigger World
+# Windows to a bigger world
 If there was time before bed, they might be lucky to watch thirty minutes of black and white television---never before finishing chores. Friends at school talked about Batman or Gilligan's Island.
 
 "I'd say, 'Hell no, I didn't watch it,'" Bruce says. "Couldn't. We had work to do."
@@ -267,7 +269,7 @@ Retired hay rake, 2016.
 </div>
 <br>
 
-# What Else?
+# What else?
 College was never discussed. Their parents had eighth grade educations and didn't know how it worked.
 
 Then one day, Kathy received a postcard from a small college asking about her interests. She checked the box next to "skiing." She had never been skiing at a resort, but she liked riding an old pair of skis down the hill  behind their house.
@@ -291,7 +293,7 @@ Milky Way over the barn, 2016.
 </div>
 <br>
 
-# Just How It Was
+# Just how it was
 Looking back now, both describe a life of simplicity---not ease, but clarity.
 
 "We didn't feel like we were missing anything," Kathy says. "Because that was all we knew."
