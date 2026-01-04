@@ -16,7 +16,7 @@ The concept of these video blogs is simple: record one second every day and stit
 Below are two such projects, each covering roughly four months during a period of life transition. I was grateful to spend this time embarking on lively adventures and connecting with wonderful people. Hope you enjoy.
 
 &nbsp;
-## Summer 2021 
+## Summer 2021 {#summer-2021} 
 <div class="row justify-content-sm-center">
 	<div class="iframe-container">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/kwQg-zc13rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

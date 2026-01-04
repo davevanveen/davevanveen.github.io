@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate <br> <a href="https://profiles.stanford.edu/dave-van-veen/">Stanford University</a> 
+subtitle: Multimodal AI Researcher | Stanford PhD 
 
 profile:
   align: right
@@ -16,22 +16,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[//]: # I’m passionate about using data to solve important problems in areas such as healthcare, education, and social equity. My primary ambition is to guide emerging technology’s impact toward beneficial outcomes.
-[//]: # I’m passionate about leveraging emerging technology to address critical problems in healthcare. My goal is to create a system that is more equitable, efficient, and patient-centric.
-I’m passionate about leveraging emerging technology to make healthcare more equitable, efficient, and patient-centric.
+<p>I build AI systems that make healthcare more accessible and effective at scale.</p>
 
-Currently I am a final-year PhD candidate in Stanford's Electrical Engineering (EE) Dept advised by <a href="https://web.stanford.edu/~pauly/">John Pauly</a> and <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>.<br>
-My research includes two major threads:
-1. developing foundation models to improve healthcare outcomes 
-2. designing machine learning (ML) algorithms for inverse problems in computational imaging and signal processing
+<p>Currently, I'm a Principal AI Scientist at <a href="https://www.hoppr.ai/">HOPPR</a>, where I develop multimodal models for medical imaging.
+My work spans the full pipeline: curating large-scale datasets, post-training foundation models, and packaging them for production deployment.
+<!-- Right now, I'm particularly interested in vision-language models and aligning outputs with clinical workflows. -->
+I thrive when collaborating across disciplines to build AI that actually works.</p>
 
-[//]: # [once i have a few blog posts] mention personal growth / outdoor adventure, point to blog
-<div style="margin-top: 30px;"></div>
+<p>Outside of work, I seek adventure—like <a href="/blog/1se/#summer-2021">bikepacking across Mexico</a>—and find serenity cycling, surfing, trail running, or <a href="/blog/books/">reading</a> in nature.</p>
 
-## bio
-Prior to beginning his PhD, Dave spent two years as a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and the <a href="https://aimi.stanford.edu/">Artificial Intelligence in Medicine & Imaging (AIMI)</a> center at Stanford.
-Previously he earned a MS in EE at the University of Texas conducting ML research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a>
-and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a>, during which he also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London.
-Before that Dave earned a BS in EE at the University of Wisconsin, where he founded and led a 150-person <a href="https://universityresearchpark.org/badgerloops-run-for-hyperloop-glory-captures-the-attention-of-elon-musk/">organization</a> to build a hyperloop pod for SpaceX.
+<h2>bio</h2>
+
+<p>Dave earned his PhD in Electrical Engineering (EE) from Stanford under <a href="https://web.stanford.edu/~pauly/">John Pauly</a> and <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>, where he developed foundation models for medicine and designed algorithms for computational imaging.
+He <a href="https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl">published</a> 15+ papers (2000+ citations, h-index: 12) across Nature, Nature Medicine, CVPR, ACL, NeurIPS, et al.
+<!-- His research focused on developing foundation models for medicine and designing ML algorithms for inverse problems in computational imaging. -->
+</p>
+
+<p>Previously, Dave was a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and Stanford's <a href="https://aimi.stanford.edu/">AIMI Center</a>.
+He earned his MS in EE at the University of Texas conducting machine learning research under <a href="https://users.ece.utexas.edu/~dimakis/">Alex Dimakis</a> and <a href="http://sriram.utlinc.org/#/">Sriram Vishwanath</a> and also served as a <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> fellow in London.
+During his BS in EE at the University of Wisconsin, he founded <a href="https://universityresearchpark.org/badgerloops-run-for-hyperloop-glory-captures-the-attention-of-elon-musk/">Badgerloop</a>, a 150-person team that built a hyperloop pod for SpaceX.</p>
 
 <div style="margin-top: 40px;"></div>
