@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Multimodal AI Researcher | Stanford PhD 
+subtitle: Multimodal AI Researcher | Stanford PhD <br><br>
 
 profile:
   align: right
@@ -14,16 +14,24 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
----
+--- 
 
-<p>I build AI systems that make healthcare more accessible and effective at scale.</p>
+<div style="height: 0.5em;"></div>
+
+<p>I build AI systems that make healthcare accessible and effective at scale.</p>
+
+<div style="height: 0.5em;"></div>
 
 <p>Currently, I'm a Principal AI Scientist at <a href="https://www.hoppr.ai/">HOPPR</a>, where I develop multimodal models for medical imaging.
 My work spans the full pipeline: curating large-scale datasets, post-training foundation models, and packaging them for production deployment.
 <!-- Right now, I'm particularly interested in vision-language models and aligning outputs with clinical workflows. -->
-I thrive when collaborating across disciplines to build AI that actually works.</p>
+I thrive when collaborating across disciplines to deliver AI that actually works.</p>
 
-<p>Outside of work, I seek adventure—like <a href="/blog/1se/#summer-2021">bikepacking across Mexico</a>—and find serenity cycling, surfing, trail running, or <a href="/blog/books/">reading</a> in nature.</p>
+<div style="height: 0.5em;"></div>
+
+<p>Outside of work, I seek adventure—like <a href="/blog/1se/#summer-2021">bikepacking across Mexico</a>—and find serenity in nature by cycling, surfing, trail running, and <a href="/blog/books/">reading</a>.</p>
+
+<br>
 
 <h2>bio</h2>
 
