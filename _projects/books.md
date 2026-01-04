@@ -1,11 +1,11 @@
 ---
 layout: page
 title: most inspiring books
-description: ongoing list organized by genre for quick browsing
+description: a covid-era reading list that resonated
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
 category: growth
-related_publications: true
+related_publications: false
 ---
 
 <div class="row">
@@ -16,7 +16,7 @@ related_publications: true
 
 <br>
 # Overview
-A developing collection of books which have most inspired me and a brief reason why. Feel free to skim the whole page or just pick your favorite genre:
+A collection of books I read during covid that most inspired me and a brief reason why. Organized by genre for quick browsing:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -29,7 +29,7 @@ A developing collection of books which have most inspired me and a brief reason 
 * <a href="#sp">Spirituality</a>
 * <a href="#tr">Travel</a>
 
-I hope this list evolves and expands often! Help the cause by making a suggestion; I'd love to hear from you.
+I'm always eager for new book recommnedations; feel free to reach out.
 
 ---------------------------------------------
 <style>
