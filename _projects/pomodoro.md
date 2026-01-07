@@ -4,7 +4,7 @@ title: pomodoro system design
 description: establishing a more productive, balanced lifestyle
 img: assets/img/2212_pomodoro/tom_header.png 
 importance: 1
-category: growth
+category: tools
 related_publications: false
 ---
 

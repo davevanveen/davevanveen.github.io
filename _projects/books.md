@@ -4,7 +4,7 @@ title: most inspiring books
 description: a covid-era reading list that resonated
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
-category: growth
+category: tools
 related_publications: false
 ---
 
