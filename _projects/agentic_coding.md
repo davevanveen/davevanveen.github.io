@@ -1,7 +1,7 @@
 ---
 layout: page
-title: engineering agentic coding
-description: workflow lessons from building with claude code
+title: agentic coding workflows
+description: practices for building with autonomous ai agents
 img: assets/img/2601_ai_coding/guardrails_wide.png
 importance: 1
 category: tools
@@ -10,17 +10,16 @@ related_publications: false
 
 <br>
 
-> "[Claude Code](https://github.com/anthropics/claude-code) has been a game changer. It's increased my productivity by 10x."
+[Claude Code](https://github.com/anthropics/claude-code) is a terminal-native AI coding agent that can execute commands, modify files, and reason over entire codebases autonomously. It's part of a broader shift toward agentic coding tools—systems that act directly on your repository rather than just suggesting code through a chat interface.
 
-You may have heard similar claims. I've found them to be true—and also disastrously false. The difference isn't luck; these tools fail predictably when intent, constraints, and evaluation criteria are underspecified.
+This autonomy creates new leverage—and new failure modes. When used well, it can feel like being a staff-level architect with a team of senior developers at your command. When used poorly, it generates plausible-but-wrong code at scale.
 
-Claude Code (and other agentic coding tools) presents a new way of working. When used well, it can feel like being a staff-level architect with a team of senior developers at your command.
+The difference isn't luck; these tools fail predictably when intent, constraints, and evaluation criteria are underspecified.
 
-*For background on Claude Code or installation instructions, see [Anthropic's documentation](https://code.claude.com/docs/en/overview).*
+Below, I share the workflow and guardrails I've developed building TB-scale data pipelines and distributed training infrastructure at [HOPPR](https://www.hoppr.ai/).
 
----
+*For background on Claude Code or installation, see [Anthropic's documentation](https://code.claude.com/docs/en/overview).*
 
-### From tool to collaborator
 
 Unlike traditional LLM tools (e.g., ChatGPT) that suggest code through a stateless interface, Claude Code can execute commands, modify files directly, and reason over your entire codebase. That autonomy is what makes it powerful—and what makes its failure modes different.
 
