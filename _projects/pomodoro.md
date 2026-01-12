@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pomodoro system design
-description: establishing a more productive, balanced lifestyle
+description: establishing a productive, balanced lifestyle
 img: assets/img/2212_pomodoro/tom_header.png 
 importance: 1
 category: tools

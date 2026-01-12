@@ -1,7 +1,7 @@
 ---
 layout: page
 title: most inspiring books
-description: a covid-era reading list that resonated
+description: quarantine reads that struck a chord
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
 category: tools
@@ -16,7 +16,10 @@ related_publications: false
 
 <br>
 # Overview
-A collection of books I read during covid that most inspired me and a brief reason why. Organized by genre for quick browsing:
+During covid, I read many books.
+Here are the ones that most inspired me and why.
+
+Organized by genre for quick browsing:
 * <a href="#ct">Coffee Table</a>
 * <a href="#ec">Ecology</a>
 * <a href="#fi">Fiction</a>
@@ -29,7 +32,7 @@ A collection of books I read during covid that most inspired me and a brief reas
 * <a href="#sp">Spirituality</a>
 * <a href="#tr">Travel</a>
 
-I'm always eager for new book recommnedations; feel free to reach out.
+I'm always eager for book recommnedations. Feel free to reach out.
 
 ---------------------------------------------
 <style>
