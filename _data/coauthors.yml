@@ -1,0 +1,6 @@
+# Coauthors data for linking publication authors to their websites
+# Add your coauthors here in the following format:
+#
+# "lastname":
+#   - firstname: ["First", "F.", "First Middle"]
+#     url: https://example.com
