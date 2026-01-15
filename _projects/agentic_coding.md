@@ -33,7 +33,7 @@ Traditional LLM tools (left) suggest code through a stateless interface for the 
 
 
 ### The joy of leverage
-One side effect of using Claude Code is that I'm having fun again. I spend more time thinking about what to build and why and less time fighting the mechanics of how. At times, I feel like a kid who is hooked on a video game and can't set it down. When the tedious parts of coding recede, what's left is the part of engineering that made me enjoy it in the first place.
+One side effect of using Claude Code is that I'm having fun again. I spend more time thinking about what to build and why; less time fighting the mechanics of how. I often feel like a kid hooked on a video game who can't set it down. When the tedious parts of coding recede, what's left is the part of engineering that made me enjoy it in the first place.
 
 <br>
 
@@ -49,11 +49,9 @@ My approach centers on two phases: planning and implementation.
 
 ### Planning
 
-Every feature—minor or major—begins with a planning document. I act as the architect, describing not just what should be built, but why specific decisions were made. This context helps Claude identify edge cases I might miss and understand the trade-offs I'm balancing.
+Every feature—minor or major—begins with a planning document. I act as the architect, describing not just *what* should be built, but *why* specific decisions were made. This context helps Claude understand the trade-offs I'm balancing and identify edge cases I might miss.
 
 I think of planning documents as the interface between human and agent. They define intent and constraints in a way the agent can reliably act on.
-
-For complex features, this iterative planning phase can take hours. That time is almost always cheaper than debugging a misaligned implementation later.
 
 Here's an example of the initial planning document:
 
@@ -72,6 +70,8 @@ Your task is to...
 
 *Note: The "preface" points to my current worktree and `claude_ops.md` file, both described later in this post.*
 
+This kicks off an iterative process. I review Claude's updated plan, add inline comments, and pass it back. We might create `plan_{03, 04, ...}.md` until both the approach and implementation details are clear. For complex features, this can take hours—time that's almost always cheaper than debugging a misaligned implementation later.
+
 Before finalizing the plan, I ask Claude: "Are there any points of ambiguity about our plan?" This often surfaces underspecified instructions. It's easy to assume the agent shares implicit context it doesn't actually have.
 
 Claude's execution is impressive, but its real leverage comes from forcing you to externalize architectural intent.
@@ -82,11 +82,11 @@ Claude's execution is impressive, but its real leverage comes from forcing you t
 
 After finalizing the plan, I tell Claude Code to implement. When planning is thorough, execution tends to be smooth—Claude reads relevant files, writes code, runs tests, and iterates on failures with minimal intervention.
 
-Because the agent can act autonomously, reviewing diffs is critical. Before committing, I inspect every change to ensure it respects the original intent and doesn't introduce unnecessary complexity. Even when I request concise, reusable code, Claude will occasionally violate design principles—complexity creep, unnecessary abstraction, or duplication still happen.
+Because the agent can act autonomously, manually reviewing diffs is critical. Before committing, I inspect changes to ensure they respect my original intent and don't introduce unnecessary complexity. Even when I request concise, reusable code, Claude will occasionally violate design principles; complexity creep, unnecessary abstraction, and duplication still happen.
 
 I commit changes frequently. Given how quickly a codebase can evolve during agentic sessions, commits provide clean revert points if the agent diverges.
 
-*Note: Implementation can take time. To avoid twiddling my thumbs, I may run 2–3 tmux sessions, each with its own Claude Code instance working on orthogonal features.*
+*Note: Execution can take time. To avoid idle waiting, I often run 2–3 tmux sessions with separate Claude Code instances working on orthogonal features.*
 
 <br>
 
@@ -96,28 +96,28 @@ I commit changes frequently. Given how quickly a codebase can evolve during agen
 
 # Best practices
 
-Claude tends to over-engineer unless constrained. To counter this bias, I maintain a `claude_ops.md` file with coding standards. You can view the full file [here](/assets/misc/claude_ops.md).
+Claude tends to over-engineer unless constrained. To counter this bias, I maintain a `claude_ops.md` file with coding standards (view the full file [here](/assets/misc/claude_ops.md)). Below are the high-level principles.
 
-Below are the high-level principles of this file, which I always reference in the preface of my planning documents (e.g., "First, review `/path/to/claude_ops.md` to learn our coding standards and best practices.")
+*I reference this file in the preface of planning documents: e.g., "First, review `/path/to/claude_ops.md` to learn our coding standards."*
 
 **<u>Test-driven development (TDD)</u>**
-<br>Write tests first, implement the minimal code to pass, then refactor. With AI agents, tests aren't just correctness checks—they're behavioral guards. They constrain what the agent is allowed to do, and they're executable specs that survive hallucinations and context loss.
+<br>Write tests first, implement the minimal code to pass, then refactor. With AI agents, tests aren't just correctness checks—they're executable specs that constrain agent behavior. They also survive hallucinations and context loss.
 
 **<u>Simplicity first</u>**
-<br>Claude often adds abstractions, frameworks, and "extensibility" you don't need. Explicitly emphasizing simplicity mitigates complexity drift.
+<br>Claude often adds unnecessary abstractions, frameworks, and "extensibility." Explicitly emphasizing simplicity mitigates complexity drift.
 
 **<u>YAGNI (You aren't gonna need it)</u>**
-<br>Don't let the agent build for hypothetical future requirements. Models are trained on codebases full of premature optimization—you must actively resist this tendency.
+<br>Don't let the agent build for hypothetical futures. Models are trained on codebases full of premature optimization—actively resist this tendency.
 
 **<u>Reuse before rewriting</u>**
-<br>Claude defaults to creating new code rather than adapting existing utilities. Force it to analyze the codebase for reusable components before writing anything new. This prevents bloat and maintains consistency.
+<br>Claude defaults to creating new code rather than adapting existing utilities. Force it to search for reusable components first. This prevents bloat and maintains consistency.
 
 **<u>Worktree safety</u>**
-<br>When an agent can modify many files quickly, defining blast radius matters. Git worktrees provide containment: Claude can only modify files within the active worktree. I reference this in the preface of my planning docs: e.g., "Your working directory is `/path/to/feature/worktree`.").
-<br>*[This blog](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe) depicts how to use Git worktrees.*
+<br>When an agent can modify many files quickly, blast radius matters. Git worktrees provide containment: Claude can only modify files within the active worktree. I specify this in the preface of my planning docs: e.g., "Your working directory is `/path/to/feature/worktree`.").
+<br>*See [this blog](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe) for Git worktrees workflows.*
 
 **<u>Manual commits only</u>**
-<br>I treat commits as a human-only boundary. Claude can propose changes, but I retain authorship over the narrative and intent of the codebase. Commits are documentation, and I want full ownership.
+<br>I treat commits as a human-only boundary. Claude propose changes; I retain authorship over the narrative. Commits are documentation, and I want full ownership.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -133,25 +133,25 @@ Guardrails constrain an autonomous coding agent's behavior—limiting scope, com
 # Other tips
 
 **<u>Planning is everything</u>**
-<br>Good planning isn't just helpful—it's the difference between Claude Code accelerating your work and derailing it.
+<br>Good planning is the difference between Claude Code accelerating your work and derailing it.
 
 **<u>Leverage other LLMs in planning</u>**
-<br>Planning input from another LLM can surface edge cases or unnecessary complexity before execution begins. A fresh perspective helps. There are tools which explore more structured multi-LLM workflows (e.g., [Mysti](https://github.com/DeepMyst/Mysti)), though I haven't used these extensively yet.
+<br>Input from another LLM can surface edge cases or unnecessary complexity before execution. Tools like [Mysti](https://github.com/DeepMyst/Mysti) explore structured multi-LLM workflows, though I haven't used them extensively.
 
 **<u>Managing the context window</u>**
-<br>Claude Code's context window is large, but managing it deliberately matters. When switching to a sufficiently different task, start a fresh session. This resets the agent's working memory without losing meaningful continuity.
+<br>Claude Code's context window is large, but manage it deliberately. When switching to a different task, start a fresh session to reset the agent's working memory.
 
 **<u>Not all tasks are created equal</u>**
-<br>Match your workflow rigor to the stakes. Standalone prototypes can tolerate loose constraints and fast iteration. Production systems or shared monorepos require thorough planning and strict review.
+<br>Match workflow rigor to the stakes. Standalone prototypes tolerate loose constraints and fast iteration. Production systems or shared monorepos require thorough planning and review.
 
 **<u>Code drift</u>**
-<br>Claude amplifies whatever patterns exist in your codebase. If existing code is verbose or poorly structured, the agent will generate similar output—wasting context and degrading quality. On larger projects, maintaining code quality isn't optional. It compounds.
+<br>Claude amplifies existing patterns. Verbose or poorly structured code generates similar output, resulting in wasted context and degraded utility. On larger projects, code quality compounds. 
 
 **<u>Using </u>`--dangerously-skip-permissions`**
-<br>I almost always run Claude Code with this flag (see [documentation](https://www.anthropic.com/engineering/claude-code-best-practices)) to avoid constant approval prompts. The trade-off: you must monitor actively. Without oversight, the agent can pursue wrong approaches or get stuck on trivial issues. When I notice this happening, I intervene immediately.
+<br>I run Claude Code with this flag ([documentation](https://www.anthropic.com/engineering/claude-code-best-practices)) to avoid constant approvals. The trade-off: active monitoring is key. Without oversight, the agent can pursue wrong approaches or waste time on trivial issues. When this happens, I intervene immediately.
 
 **<u>English is the new programming language</u>**
-<br>Natural language is now executable. But technical fluency amplifies this: it lets you validate output, identify architectural missteps, and intervene before small errors compound. Communication and technical depth together make you effective.
+<br>Natural language is now executable. Technical fluency amplifies this: it lets you validate output, identify architectural missteps, and intervene before errors compound. Communication and technical skills together make you effective.
 
 <br>
 
@@ -188,4 +188,4 @@ Additional resources I've found useful:
 - [Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) from Anthropic.
 - [Blog post](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) on using Claude Code features.
 - [Blog post](https://www.humanlayer.dev/blog/writing-a-good-claude-md) on writing a good `CLAUDE.md` file.
-- [HappyApp](https://www.happyapp.org/): a local-first macOS app that pairs Claude Code with a polished UI and session management. Useful for longer-running workflows, or if you just want to check in while grocery shopping.
+- [HappyApp](https://www.happyapp.org/): macOS app pairing Claude Code with a polished UI and session management. Useful for long workflows or checking progress on the go.
