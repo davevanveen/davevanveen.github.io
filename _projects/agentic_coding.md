@@ -70,7 +70,7 @@ Your task is to...
 
 *Note: The "preface" points to my current worktree and `claude_ops.md` file, both described later in this post.*
 
-This kicks off an iterative process. I review Claude's updated plan, add inline comments, and pass it back. We might create `plan_{03, 04, ...}.md` until both the approach and implementation details are clear. For complex features, this can take hours—time that's almost always cheaper than debugging a misaligned implementation later.
+This kicks off an iterative process. I review Claude's updated plan, add inline comments, and pass it back. We might create `plan_{02, 03, ...}.md` until both the approach and implementation details are clear. For complex features, this can take hours—time that's almost always cheaper than debugging a misaligned implementation later.
 
 Before finalizing the plan, I ask Claude: "Are there any points of ambiguity about our plan?" This often surfaces underspecified instructions. It's easy to assume the agent shares implicit context it doesn't actually have.
 
