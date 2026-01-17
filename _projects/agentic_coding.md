@@ -12,11 +12,11 @@ related_publications: false
 
 [Claude Code](https://github.com/anthropics/claude-code) is a terminal-native AI coding agent that can execute commands, modify files, and reason over entire codebases autonomously. It's part of a broader shift toward agentic coding tools—systems that act directly on your repository rather than just suggesting code through a chat interface.
 
-This autonomy creates new leverage—and new failure modes. When used well, it's like being a staff-level architect with their own team of developers. When used poorly, it generates plausible-but-wrong code at scale. The difference isn't luck; these tools fail predictably when intent, constraints, and evaluation criteria are underspecified.
+This autonomy creates new leverage—and new failure modes. When used well, it's like being a staff-level architect with your own team of developers. When used poorly, it generates plausible-but-wrong code at scale. The difference isn't luck; these tools fail predictably when intent, constraints, and evaluation criteria are underspecified.
 
 The key shift: you're no longer just writing code. You're designing interfaces and guardrails for a non-human collaborator with bounded authority.
 
-Below, I share the workflow and guardrails I've developed building TB-scale data pipelines and distributed training infrastructure at [HOPPR](https://www.hoppr.ai/).
+Below, I share the agentic coding workflow I've developed building TB-scale data pipelines and distributed training infrastructure at [HOPPR](https://www.hoppr.ai/).
 
 *For background on Claude Code or installation, see [Anthropic's documentation](https://code.claude.com/docs/en/overview).*
 
@@ -51,7 +51,7 @@ My approach centers on two phases: planning and implementation.
 
 Every feature—minor or major—begins with a planning document. I act as the architect, describing not just *what* should be built, but *why* specific decisions were made. This context helps Claude understand the trade-offs I'm balancing and identify edge cases I might miss.
 
-I think of planning documents as the interface between human and agent. They define intent and constraints in a way the agent can reliably act on.
+I think of planning documents as the interface between human and agent. They define intent and constraints in a way the agent can reliably act upon.
 
 Here's an example of the initial planning document:
 
@@ -70,7 +70,7 @@ Your task is to...
 
 *Note: The "preface" points to my current worktree and `claude_ops.md` file, both described later in this post.*
 
-This kicks off an iterative process. I review Claude's updated plan, add inline comments, and pass it back. We might create `plan_{02, 03, ...}.md` until both the approach and implementation details are clear. For complex features, this can take hours—time that's almost always cheaper than debugging a misaligned implementation later.
+This kicks off an iterative process. I review Claude's updated plan, add inline comments, and pass it back. We might create `plan_{02, 03, ...}.md` until both the approach and implementation details are clear. For complex features, this can take hours—cheaper than debugging a misaligned implementation later.
 
 Before finalizing the plan, I ask Claude: "Are there any points of ambiguity about our plan?" This often surfaces underspecified instructions. It's easy to assume the agent shares implicit context it doesn't actually have.
 
@@ -80,9 +80,9 @@ Claude's execution is impressive, but its real leverage comes from forcing you t
 
 ### Implementation
 
-After finalizing the plan, I tell Claude Code to implement. When planning is thorough, execution tends to be smooth—Claude reads relevant files, writes code, runs tests, and iterates on failures with minimal intervention.
+After finalizing the plan, I tell Claude Code to implement. With thorough planning, execution tends to be smooth—Claude reads relevant files, writes code, runs tests, and iterates on failures with minimal intervention.
 
-Because the agent can act autonomously, manually reviewing diffs is critical. Before committing, I inspect changes to ensure they respect my original intent and don't introduce unnecessary complexity. Even when I request concise, reusable code, Claude will occasionally violate design principles; complexity creep, unnecessary abstraction, and duplication still happen.
+Because the agent acts autonomously, reviewing diffs is critical. Before committing, I inspect changes to ensure they respect my design goals without introducing bloat. Even when requesting concise, reusable code, Claude's output can drift toward unnecessary abstraction or duplication.
 
 I commit changes frequently. Given how quickly a codebase can evolve during agentic sessions, commits provide clean revert points if the agent diverges.
 
@@ -104,7 +104,7 @@ Claude tends to over-engineer unless constrained. To counter this bias, I mainta
 <br>Write tests first, implement the minimal code to pass, then refactor. With AI agents, tests aren't just correctness checks—they're executable specs that constrain agent behavior. They also survive hallucinations and context loss.
 
 **<u>Simplicity first</u>**
-<br>Claude often adds unnecessary abstractions, frameworks, and "extensibility." Explicitly emphasizing simplicity mitigates complexity drift.
+<br>Claude often adds unnecessary abstractions, frameworks, and extensions. Explicitly emphasizing simplicity mitigates complexity drift.
 
 **<u>YAGNI (You aren't gonna need it)</u>**
 <br>Don't let the agent build for hypothetical futures. Models are trained on codebases full of premature optimization—actively resist this tendency.
@@ -117,7 +117,7 @@ Claude tends to over-engineer unless constrained. To counter this bias, I mainta
 <br>*See [this blog](https://medium.com/@dtunai/mastering-git-worktrees-with-claude-code-for-parallel-development-workflow-41dc91e645fe) for Git worktrees workflows.*
 
 **<u>Manual commits only</u>**
-<br>I treat commits as a human-only boundary. Claude propose changes; I retain authorship over the narrative. Commits are documentation, and I want full ownership.
+<br>I treat commits as a human-only boundary. Claude proposes changes; I retain authorship over the codebase. A commit is documentation, and I want to own it.
 
 <br>
 <div class="row justify-content-sm-center">
@@ -151,7 +151,7 @@ Guardrails constrain an autonomous coding agent's behavior—limiting scope, com
 <br>I run Claude Code with this flag ([documentation](https://www.anthropic.com/engineering/claude-code-best-practices)) to avoid constant approvals. The trade-off: active monitoring is key. Without oversight, the agent can pursue wrong approaches or waste time on trivial issues. When this happens, I intervene immediately.
 
 **<u>English is the new programming language</u>**
-<br>Natural language is now executable. Technical fluency amplifies this: it lets you validate output, identify architectural missteps, and intervene before errors compound. Communication and technical skills together make you effective.
+<br>Natural language is now executable. Technical fluency amplifies, enabling you to validate output, identify architectural missteps, and intervene before errors compound. Communication and technical skills together make you effective.
 
 <br>
 
@@ -173,7 +173,7 @@ Claude Code shifts the bottleneck from writing code to designing interfaces and 
 
 # Acknowledgments
 
-Thanks to John Paulett, John Gillotte, Robert Bakos, Eric Brattain, and Kyong Song for conversations that shaped this thinking.
+Thank you to my colleagues for conversations that shaped this thinking: John Paulett, John Gillotte, Robert Bakos, Khan Siddiqui, Eric Brattain, and Kyong Song.
 
 <br>
 
