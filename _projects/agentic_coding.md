@@ -173,7 +173,7 @@ Claude Code shifts the bottleneck from writing code to designing interfaces and 
 
 # Acknowledgments
 
-Thank you to my colleagues for conversations that shaped this thinking: John Paulett, John Gillotte, Robert Bakos, Khan Siddiqui, Eric Brattain, Woojin Kim, and Kyong Song.
+Thank you to colleagues who shaped this thinking: John Paulett, John Gillotte, Robert Bakos, Khan Siddiqui, Eric Brattain, Woojin Kim, and Kyong Song. 
 
 <br>
 
