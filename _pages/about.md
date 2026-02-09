@@ -29,7 +29,7 @@ I thrive when collaborating across disciplines to deliver AI that actually works
 
 <div style="height: 0.5em;"></div>
 
-<p>Aside from building, I seek adventure—like <a href="/blog/1se/#summer-2021">bikepacking across Mexico</a>—and solitude in nature via <a href="/blog/books/">reading</a>, surfing, and trail running with my dog.</p>
+<p>Aside from building, I seek adventure—like bikepacking across Mexico—and solitude in nature via <a href="/blog/books/">reading</a>, surfing, and trail running with my dog.</p>
 
 <br>
 
