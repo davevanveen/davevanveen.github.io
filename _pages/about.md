@@ -37,7 +37,7 @@ I thrive when collaborating across disciplines to deliver AI that actually works
 
 <p>Dave earned his PhD in Electrical Engineering (EE) from Stanford under <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a> and
 <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, where he developed algorithms for computational imaging and foundation models for medicine.
-He <a href="https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl">published</a> 15+ papers (2000+ citations, h-index: 12) across Nature, Nature Medicine, CVPR, ACL, NeurIPS, et al.
+He <a href="https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl">published</a> 15+ papers (2000+ citations) across Nature, Nature Medicine, CVPR, ACL, NeurIPS, et al.
 <!-- His research focused on developing foundation models for medicine and designing ML algorithms for inverse problems in computational imaging. -->
 </p>
 
