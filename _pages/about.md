@@ -28,7 +28,7 @@ I thrive in high-stakes domains where decisions must be factual, safe, and align
 
 <div style="height: 0.5em;"></div>
 
-<p>Aside from building, I seek adventure—like bikepacking across Mexico—and solitude in nature via <a href="/blog/books/">reading</a>, surfing, and trail running with my dog.</p>
+<p>Beyond building, I seek adventure—like bikepacking across Mexico—and solitude in nature via <a href="/blog/books/">reading</a>, surfing, and trail running with my dog.</p>
 
 <br>
 
