@@ -23,8 +23,8 @@ social: true # includes social icons at the bottom of the page
 <div style="height: 0.5em;"></div>
 
 <p>Currently, I'm a Principal AI Scientist at <a href="https://www.hoppr.ai/">HOPPR</a>, where I develop multimodal models in radiology.
-My work spans model training, data pipelines, and production engineering.
-I thrive when collaborating across disciplines to deliver AI that actually works.</p>
+My work spans model training, data pipelines, and <a href="/blog/agentic_coding/">agentic workflows</a> across the ML stack.
+I thrive in high-stakes domains where decisions must be factual, safe, and aligned with human judgment.</p>
 
 <div style="height: 0.5em;"></div>
 
@@ -36,7 +36,7 @@ I thrive when collaborating across disciplines to deliver AI that actually works
 
 <p>Dave earned his PhD in Electrical Engineering (EE) from Stanford under <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a> and
 <a href="https://web.stanford.edu/~pauly/">John Pauly</a>, where he developed algorithms for computational imaging and foundation models for medicine.
-He <a href="https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl">published</a> 15+ papers (2000+ citations) across Nature, Nature Medicine, CVPR, ACL, et al.
+He <a href="https://scholar.google.com/citations?user=lP73UFAAAAAJ&hl">published</a> 15+ papers (2400+ citations) across Nature, Nature Medicine, CVPR, ACL, et al.
 </p>
 
 <p>Previously, Dave was a research scientist at a Bay Area <a href="https://subtlemedical.com/">start-up</a> and Stanford's <a href="https://aimi.stanford.edu/">AIMI Center</a>.
