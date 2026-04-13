@@ -10,7 +10,7 @@ related_publications: false
 
 <br>
 
-> **Update, February 2026:** Since sharing this post, my workflow has expanded to employ teams of agents (see [docs](https://code.claude.com/docs/en/agent-teams), [demo](https://www.youtube.com/watch?v=cSkoaCCmq0w&t=427s)). Regardless, the principles below still hold. Tools will evolve; the meta-skill—knowing how to leverage autonomous agents—isn't going anywhere.
+> **Update:** Since sharing this post (Jan. 2026), my workflow has evolved into stateful multi-agent systems with graph-based orchestration. Regardless, the principles below still hold. Tools will evolve; the meta-skill—knowing how to leverage autonomous agents—isn't going anywhere.
 
 [Claude Code](https://github.com/anthropics/claude-code) is a terminal-native AI coding agent that can execute commands, modify files, and reason over entire codebases autonomously. It's part of a broader shift toward agentic coding tools—systems that act directly on your repository rather than just suggesting code through a chat interface.
 
