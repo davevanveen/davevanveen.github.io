@@ -3,7 +3,7 @@ layout: page
 title: growing up in da u.p.
 description: remembering a 1960s dairy farm childhood
 img: assets/img/2512_aman_farm/farm/farm_w_moon.jpg
-importance: 3
+importance: 4
 category: stories
 related_publications: false
 ---
