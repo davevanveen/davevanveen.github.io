@@ -19,7 +19,7 @@ horizontal: false
     {% if category == "tools" %}
     <p style="font-size: 1.1rem; color: #666; margin-top: 0;">systems i use to think, build, and live more deliberately</p>
     {% elsif category == "stories" %}
-    <p style="font-size: 1.1rem; color: #666; margin-top: 0;">narratives that shaped how i see the world</p>
+    <p style="font-size: 1.1rem; color: #666; margin-top: 0;">narratives that shape how i see the world</p>
     {% endif %}
   </div>
   {% assign categorized_projects = site.projects | where: "category", category %}
