@@ -3,7 +3,7 @@ layout: page
 title: infinite work, designed
 description: establishing a balanced and productive lifestyle
 img: assets/img/2212_pomodoro/tom_header.png 
-importance: 1
+importance: 4
 category: tools
 related_publications: false
 ---

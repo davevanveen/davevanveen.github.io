@@ -3,7 +3,7 @@ layout: page
 title: most inspiring books
 description: a covid reading list that resonated
 img: assets/img/2205_books/book_collage_v2.png
-importance: 1
+importance: 3
 category: tools
 related_publications: false
 ---
