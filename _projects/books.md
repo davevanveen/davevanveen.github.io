@@ -1,7 +1,7 @@
 ---
 layout: page
 title: most inspiring books
-description: quarantine reads that struck a chord
+description: a covid reading list that resonated
 img: assets/img/2205_books/book_collage_v2.png
 importance: 1
 category: tools
@@ -26,10 +26,10 @@ Organized by genre for quick browsing:
 * <a href="#hf">Health and Fitness</a>
 * <a href="#hb">Historical Biographies</a>
 * <a href="#me">Memoirs</a>
+* <a href="#mi">Mindfulness</a>
 * <a href="#po">Poetry</a>
 * <a href="#se">Self-help</a>
 * <a href="#so">Social Psychology</a>
-* <a href="#sp">Spirituality</a>
 * <a href="#tr">Travel</a>
 
 I'm always eager for book recommnedations. Feel free to reach out.
@@ -144,6 +144,24 @@ table td:nth-of-type(3) {
 </table>
 
 
+<a id="mi"></a> 
+&nbsp;
+## Mindfulness
+
+<table>
+	<tr>
+		<td> <img style="float: left;" src="/assets/img/2205_books/power_of_now.jpg" width="100" height="100"> </td>
+		<td> <a href="https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true&qid=NA7OIbrJSV&rank=1">The Power of Now</a> <br> by Eckhart Tolle </td>
+		<td> Thorough, tangible explanations of being present and how that enables a fulfilling life. This is often the first mindfulness book I recommend, as I found it very helpful that Tolle re-iterates the same points from different angles. </td>
+	</tr>
+	<tr>
+		<td> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </td>
+		<td> <a href="https://www.goodreads.com/book/show/41580312-be-here-now?ac=1&from_search=true&qid=7gSwqUlhtQ&rank=1">Be Here Now</a> <br> by Ram Dass </td>
+		<td> Illustrative depictions of conscious experience to help shepherd a sense of the sacred into everyday existence. I really like how saliently Ram Dass reconciles the underlying spiritual connection between different religions. </td>
+	</tr>
+</table>
+
+
 <a id="po"></a> 
 &nbsp;
 ## Poetry
@@ -203,22 +221,6 @@ table td:nth-of-type(3) {
 </table>
 
 
-<a id="sp"></a> 
-&nbsp;
-## Spirituality
-
-<table>
-	<tr>
-		<td> <img style="float: left;" src="/assets/img/2205_books/power_of_now.jpg" width="100" height="100"> </td>
-		<td> <a href="https://www.goodreads.com/book/show/6708.The_Power_of_Now?ac=1&from_search=true&qid=NA7OIbrJSV&rank=1">The Power of Now</a> <br> by Eckhart Tolle </td>
-		<td> Thorough, tangible explanations of being present and how that enables a fulfilling life. This is often the first mindfulness book I recommend, as I found it very helpful that Tolle re-iterates the same points from different angles. </td>
-	</tr>
-	<tr>
-		<td> <br> <img style="float: left;" src="/assets/img/2205_books/be_here_now.jpg" width="100" height="100"> </td>
-		<td> <a href="https://www.goodreads.com/book/show/41580312-be-here-now?ac=1&from_search=true&qid=7gSwqUlhtQ&rank=1">Be Here Now</a> <br> by Ram Dass </td>
-		<td> Illustrative depictions of conscious experience to help shepherd a sense of the sacred into everyday existence. I really like how saliently Ram Dass reconciles the underlying spiritual connection between different religions. </td>
-	</tr>
-</table>
 
 <a id="tr"></a> 
 &nbsp;  <br /> 

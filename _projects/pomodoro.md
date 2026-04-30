@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pomodoro system design
-description: establishing a productive, balanced lifestyle
+title: infinite work, designed
+description: establishing a balanced and productive lifestyle
 img: assets/img/2212_pomodoro/tom_header.png 
 importance: 1
 category: tools
@@ -10,11 +10,12 @@ related_publications: false
 
 <br>
 
-Years ago I was frustrated with how I worked, suffering from undirected time at my desk and undefined boundaries between my professional and personal life.
-I was not the efficient, balanced human I wanted to be.
+When covid lockdown first hit, I was frustrated with how I worked&mdash;drifting through unintentional time at my desk with no clear boundary between my professional and personal life.
+I was not the efficient, balanced person I wanted to be.
 
-Initially a quest to become more focused, this project completely shifted my orientation toward work&mdash;enabling me to establish boundaries and accept my finitude, despite always having more to do.
-Hopefully this journey toward improved productivity and balance can offer a nugget of insight for your own.
+What started as a simple attempt to improve focus evolved into something bigger. Building this pomodoro-based system fundamentally shifted my orientation toward work. It helped me establish boundaries and accept there will always be more to do. In the process, I became wildly more productive and more fulfilled.
+
+Hopefully this journey toward productivity and balance offers useful insight for your own.
 
 <br>
 <div class="row justify-content-sm-center">
