@@ -1,6 +1,6 @@
 ---
 layout: page
-title: agentic coding workflows
+title: agentic <br> coding
 description: practices for building with autonomous ai agents
 img: assets/img/2601_ai_coding/guardrails_wide.png
 importance: 1
