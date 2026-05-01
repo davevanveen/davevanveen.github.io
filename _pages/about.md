@@ -23,8 +23,8 @@ social: true # includes social icons at the bottom of the page
 <div style="height: 0.5em;"></div>
 
 <p>Currently, I'm a Principal AI Scientist at <a href="https://www.hoppr.ai/">HOPPR</a>, where I develop multimodal models in radiology.
-My work spans model training, data pipelines, and <a href="/blog/agentic_coding/">agentic workflows</a> across the ML stack.
-I thrive in high-stakes domains where decisions must be factual, safe, and aligned with human judgment.</p>
+My focus: building <a href="/blog/agentic_systems/">agentic systems</a> across the ML stack&mdash;model training, data pipelines, and evaluation.
+I thrive in high-stakes domains where decisions must be factual, safe, and human-aligned.</p>
 
 <div style="height: 0.5em;"></div>
 
