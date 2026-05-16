@@ -55,6 +55,13 @@
     id="highlight_theme_dark"
   >
   <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
+  <style>
+    /* Baseline dark-mode colors applied before MDB CSS loads, preventing faint-text flash.
+       Values match $grey-color-dark/#1c1c1d and $grey-color-light in _sass/_variables.scss.
+       Overridden by MDB CSS custom properties once loaded. */
+    html[data-theme="dark"] body { background-color: #1c1c1d; color: #f0f0f0; }
+    html[data-theme="dark"] td, html[data-theme="dark"] th { color: #f0f0f0; }
+  </style>
 {% endif %}
 
 <!-- GeoJSON support via Leaflet -->
