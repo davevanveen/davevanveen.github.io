@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [tools, stories]
 horizontal: false
+masonry: true
 ---
 
 <!-- pages/projects.md -->
