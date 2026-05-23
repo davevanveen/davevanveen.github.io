@@ -106,3 +106,5 @@ Curiosity is the instinct to assume meaning exists outside the default—and to 
 One could argue this process runs in reverse. Rather than compressing the range of human thought, AI absorbs the repetitive, standardized parts of reasoning and frees people to focus on what is novel, ambiguous, and creative. In this view, the system expands intuition. By removing the tedium of synthesis and recall, AI creates more space for exploration, intuition, and new ideas.
 
 Both interpretations may be true in different contexts, but the stakes are high enough that we should thoughtfully consider how these systems are designed and used—monitoring whether they expand or compress how we think.
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published April 2026</p>

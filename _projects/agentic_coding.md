@@ -192,3 +192,5 @@ Additional resources I've found useful:
 - [Blog post](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) on using Claude Code features.
 - [Blog post](https://www.humanlayer.dev/blog/writing-a-good-claude-md) on writing a good `CLAUDE.md` file.
 - [HappyApp](https://www.happyapp.org/): macOS app pairing Claude Code with a polished UI and session management. Useful for long workflows or checking progress on the go.
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published January 2026</p>

@@ -314,3 +314,5 @@ Photographs were diligently compiled by Kay and processed by Barry Van Veen; Bar
 Vince, my sister, and me, 1997.
 </div>
 <br>
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published December 2025</p>

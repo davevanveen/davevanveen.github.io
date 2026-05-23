@@ -223,3 +223,5 @@ The trick isn't to "use more agents." It's to discern where human judgment matte
 Accomplishing this requires a system where execution and critique are automated, so judgment can scale. My workflow has started to feel less like a tool and more like an organization—individual agents form teams, and those teams collaborate to form something much larger.
 
 This will shift human leverage from "doing" the work to building and monitoring systems that can execute and improve autonomously.
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published April 2026</p>

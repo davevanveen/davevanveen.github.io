@@ -145,3 +145,5 @@ And when my time comes, well&mdash;I can’t say I’ll be afraid.
 <div class="caption">
    Met this Peruvian pup, and we named him Paab. A scavenger by trade, Paab was kind enough to take excess weight from our packs. He became a companion throughout the trek, even helping to find trail in the dark. Doggo certainly earned his keep! Saying goodbye to Paab was tougher for me than bidding farewell to most people. The bond between human and dog sure is a beautiful thing (credit, bottom row: Yaak).
 </div>
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published September 2022</p>

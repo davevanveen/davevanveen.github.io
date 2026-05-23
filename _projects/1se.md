@@ -39,3 +39,5 @@ Below are two such projects, each covering roughly four months during a period o
 <div class="caption">
 	My move out of Austin, TX, and into the Bay Area with a London summer and solo travel in between. Shoutout to the <a href="https://www.datascienceforsocialgood.org/">Data Science for Social Good</a> community who made this season so special!
 </div>
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published June 2022</p>

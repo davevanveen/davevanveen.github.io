@@ -107,3 +107,5 @@ With so much of our lives spent working, bringing intentionality to _how_ we wor
 # Acknowledgments
 Thanks to [Lina Colucci](https://linacolucci.com) who initially inspired me to try the pomodoro method. 
 I'm also grateful to [Kyle Treige](https://kyletreige.com), a close friend and kindred spirit in designing systems of productivity.
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published December 2022</p>

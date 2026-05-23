@@ -233,3 +233,5 @@ table td:nth-of-type(3) {
 		<td> A Casablancan's quest to dispel haunted spirits, navigating Islamic traditions and African folklore. I read this while hitchhiking through Morocco; my experience was greatly enhanced by Shah's cultural curiosity and impeccable articulation of solo travel. </td> 
 	</tr>
 </table>
+
+<p style="text-align: right; font-style: italic; color: #888; margin-top: 3rem;">Published May 2022</p>
