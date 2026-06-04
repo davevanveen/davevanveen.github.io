@@ -6,7 +6,7 @@ $(document).ready(function () {
     itemSelector: ".grid-item",
   });
   // Layout Masonry after each image loads
-  $grid.imagesLoaded().progress(function () {
+  $grid.imagesLoaded().always(function () {
     $grid.masonry("layout");
   });
 });
